@@ -1,0 +1,1037 @@
+subject,relation,object,confidence,source_file,sentence
+onet zsuzsanna,related_to,onet zsuzsanna babe s bolyai university computer science mathematics faculty lect,0.4,cs1_clean.txt,onet zsuzsanna babe s bolyai university computer science mathematics faculty lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms
+onet zsuzsanna,related_to,today,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms today xor link list skip list link list array lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms today xor link list skip list link list array lect
+today,related_to,onet zsuzsanna data structures algorithms,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms today xor link list skip list link list array lect
+onet zsuzsanna data structures,algorithm,xor link list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list doubly link list well singly link list offer well complexity operation
+list,offer,complexity operation,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list doubly link list well singly link list offer well complexity operation
+xor,link,list,1.0,cs1_clean.txt,memory efficient solution xor linked list doubly link list traverse direction node retain single link xor previous node
+traverse direction node,retain,single link,1.0,cs1_clean.txt,memory efficient solution xor linked list doubly link list traverse direction node retain single link xor previous node
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list example
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list example
+similar manner node address node,address,b,1.0,cs1_clean.txt,start head backward traversal start tail similar manner node address node directly address node b nil xor b b
+node,related_to,xor b s link address,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node,related_to,node b link xor address node c xor b,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node,related_to,link address,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node,related_to,previous node,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node,related_to,come,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node,related_to,c,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,node,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,node b link xor address node c xor b,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,link address,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,previous node,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,come,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,c,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+xor b s link address,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node b link xor address node c xor b,related_to,link address,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node b link xor address node c xor b,related_to,previous node,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node b link xor address node c xor b,related_to,come,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node b link xor address node c xor b,related_to,c,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+node b link xor address node c xor b,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+link address,related_to,previous node,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+link address,related_to,come,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+link address,related_to,c,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+link address,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+previous node,related_to,come,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+previous node,related_to,c,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+previous node,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+come,related_to,c,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+come,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+c,related_to,c c lect,0.4,cs1_clean.txt,address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+onet zsuzsanna data structures,algorithm,xor link list representation,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list representation
+node,related_to,info telem,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+node,related_to,structure,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+node,related_to,xor,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+node,related_to,list node list xornode info telem link xornode xorlist head,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+info telem,related_to,structure,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+info telem,related_to,xor,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+info telem,related_to,list node list xornode info telem link xornode xorlist head,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+structure,related_to,xor,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+structure,related_to,list node list xornode info telem link xornode xorlist head,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+xor,related_to,list node list xornode info telem link xornode xorlist head,0.4,cs1_clean.txt,need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+link,list,traversal subalgorithm,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list traversal subalgorithm
+xorl xorlist,related_to,xorl xorlist true content list print prevnode nil currentnode currentnode nil execute write,0.4,cs1_clean.txt,xorl xorlist true content list print prevnode nil currentnode currentnode nil execute write
+nextnode,related_to,nextnode prevnode xor prevnode currentnode currentnode,0.4,cs1_clean.txt,nextnode prevnode xor prevnode currentnode currentnode nextnode end end subalgorithm complexity n lect
+nextnode,related_to,nextnode end end subalgorithm complexity,0.4,cs1_clean.txt,nextnode prevnode xor prevnode currentnode currentnode nextnode end end subalgorithm complexity n lect
+nextnode prevnode xor prevnode currentnode currentnode,related_to,nextnode end end subalgorithm complexity,0.4,cs1_clean.txt,nextnode prevnode xor prevnode currentnode currentnode nextnode end end subalgorithm complexity n lect
+addtobeginne,add,element beginning list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list addtobeginne add element beginning list
+addtobeginne,add,element beginning list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list addtobeginne add element beginning list
+xorl xorlist node info elem,add,beginning list newnode,1.0,cs1_clean.txt,xorl xorlist node info elem add beginning list newnode allocate
+elem nil newnode,related_to,elem nil newnode newnode xor newnode newnode end end subalgorithm complexity lect,0.4,cs1_clean.txt,elem nil newnode newnode xor newnode newnode end end subalgorithm complexity lect
+addtobeginne,add,element beginning list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms xor link list addtobeginne add element beginning list
+xorl xorlist node info elem,add,beginning list newnode,1.0,cs1_clean.txt,xorl xorlist node info elem add beginning list newnode allocate
+elem nil newnode,related_to,elem nil newnode newnode xor newnode newnode end end subalgorithm complexity lect,0.4,cs1_clean.txt,elem nil newnode newnode xor newnode newnode end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms skip lists,assume,element,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms skip lists assume want memorize sequence sorted element
+element store dynamic array link list,let,list,1.0,cs1_clean.txt,element store dynamic array link list let s doubly link list
+frequently operation insertion new element,related_to,data structure insertion,0.4,cs1_clean.txt,know frequently operation insertion new element want choose data structure insertion good complexity
+frequently operation insertion new element,related_to,good complexity,0.4,cs1_clean.txt,know frequently operation insertion new element want choose data structure insertion good complexity
+data structure insertion,related_to,good complexity,0.4,cs1_clean.txt,know frequently operation insertion new element want choose data structure insertion good complexity
+insertion operation step,find,insert insert element lect,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms skip lists divide insertion operation step find insert insert element lect
+position,optimize,binary search insertion,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms skip lists divide insertion operation step find insert insert element dynamic array find position optimize binary search insertion
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list
+skip list data structure,allow,fast search order link list,1.0,cs1_clean.txt,skip list data structure allow fast search order link list
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list
+skip list data structure,allow,fast search order link list,1.0,cs1_clean.txt,skip list data structure allow fast search order link list
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list
+skip list data structure,allow,fast search order link list,1.0,cs1_clean.txt,skip list data structure allow fast search order link list
+order link list,add,second node pointer skip element,1.0,cs1_clean.txt,start order link list add second node pointer skip element
+fourth,related_to,node,0.4,cs1_clean.txt,add fourth node pointer skip element
+fourth,related_to,fourth node pointer skip element,0.4,cs1_clean.txt,add fourth node pointer skip element
+node,related_to,fourth node pointer skip element,0.4,cs1_clean.txt,add fourth node pointer skip element
+onet zsuzsanna,related_to,node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+onet zsuzsanna,related_to,h t special node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+onet zsuzsanna,related_to,head tail,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+node,related_to,onet zsuzsanna data structures algorithms skip list,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+node,related_to,h t special node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+node,related_to,head tail,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+onet zsuzsanna data structures algorithms skip list,related_to,h t special node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+onet zsuzsanna data structures algorithms skip list,related_to,head tail,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+h t special node,related_to,head tail,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+delete exist list,need,height list,1.0,cs1_clean.txt,delete exist list need height list
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list search search element,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list search search element
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list low level n element,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list low level n element
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms skip list insert insert element,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert insert element
+node,related_to,high new node,0.4,cs1_clean.txt,high new node
+onet zsuzsanna,related_to,node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+onet zsuzsanna,related_to,insert height,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+onet zsuzsanna,related_to,randomly method call coin flip,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+node,related_to,insert height,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+node,related_to,randomly method call coin flip,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+insert height,related_to,randomly method call coin flip,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+method,guarantee,approximately half node level quarter level,1.0,cs1_clean.txt,method guarantee approximately half node level quarter level etc
+node,related_to,height node,0.4,cs1_clean.txt,assume randomly generate height node
+onet zsuzsanna data structures algorithms skip list skip lists probabilistic data structure,decide,newly insert node,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list skip lists probabilistic data structure decide randomly height newly insert node
+node,related_to,bad case node height link list,0.4,cs1_clean.txt,bad case node height link list
+onet zsuzsanna data structures algorithms skip list representation idea,represent,skip list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list representation idea represent skip list
+onet zsuzsanna data structures algorithms skip list representation idea,represent,skip list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list representation idea represent skip list
+link list,need,structure node,1.0,cs1_clean.txt,link list need structure node
+approach,define,node node array pointer pointer different level,1.0,cs1_clean.txt,approach define node node array pointer pointer different level
+node single,related_to,node single pointer pointer point node level,0.4,cs1_clean.txt,node single pointer pointer point node level
+important issue,decide,doubly link list,1.0,cs1_clean.txt,important issue decide singly doubly link list
+combination level,related_to,doubly link list high level,0.4,cs1_clean.txt,maybe combination level doubly link list high level singly link
+onet zsuzsanna,related_to,node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list implementation idea possible special head tail node maximum possible height
+onet zsuzsanna,related_to,special head tail,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list implementation idea possible special head tail node maximum possible height
+node,related_to,special head tail,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms skip list implementation idea possible special head tail node maximum possible height
+order,need,store node pass search position,1.0,cs1_clean.txt,order able potentially need store node pass search position
+node,involve,path,1.0,cs1_clean.txt,case node involve path
+start,head,node high level,1.0,cs1_clean.txt,example previously figure want remove immediately find start head node high level
+pointer node,related_to,need,0.4,cs1_clean.txt,remove pointer node need change
+pointer node,related_to,change,0.4,cs1_clean.txt,remove pointer node need change
+need,related_to,change,0.4,cs1_clean.txt,remove pointer node need change
+onet zsuzsanna,related_to,node,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+onet zsuzsanna,related_to,extra link n element,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+node,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+node,related_to,extra link n element,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+onet zsuzsanna data structures,related_to,extra link n element,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+basic version skip list,related_to,unidirectional singly link list,0.4,cs1_clean.txt,basic version skip list unidirectional singly link list
+little skip list node,contain,array pointer benefit cache descend level,1.0,cs1_clean.txt,disadvantage reduce little skip list node contain array pointer benefit cache descend level
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays lect
+onet zsuzsanna,related_to,lists arrays,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays lect
+onet zsuzsanna data structures algorithms,related_to,lists arrays,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays lect
+onet zsuzsanna data structures algorithms,link,lists arrays,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays
+link list work programming language,related_to,pointer reference,0.4,cs1_clean.txt,need link list work programming language offer pointer reference
+link datum structure explicit use pointer memory address,related_to,simulate,0.4,cs1_clean.txt,implement link datum structure explicit use pointer memory address simulate array array index
+onet zsuzsanna data structures algorithms,link,lists,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays usually work array store element array start leftmost position place space middle array allow
+array store element array,start,leftmost position place space middle array,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays usually work array store element array start leftmost position place space middle array allow
+order element,give,array,1.0,cs1_clean.txt,order element give order place array
+order element,give,relative position array integer number associate element show index element array singly link list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays define link data structure array consider order element give relative position array integer number associate element show index element array singly link list
+onet zsuzsanna data structures algorithms,link,lists arrays,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays
+array,need,modify link order element lect,1.0,cs1_clean.txt,want delete number actually second element list element left array need modify link order element lect
+onet zsuzsanna data structures algorithms,link,lists,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays want insert new element example position list element array important set link correctly order element lect
+arrays,want,insert new element example position list element array important set link correctly order element lect,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays want insert new element example position list element array important set link correctly order element lect
+onet zsuzsanna data structures algorithms,link,lists arrays,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays new element need insert position array
+order,avoid,link list position,1.0,cs1_clean.txt,order avoid link list position
+onet zsuzsanna data structures algorithms,link,lists arrays,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays formal way simulate singly link list array following array store element
+linked,following,array store element,0.7,cs1_clean.txt,onet zsuzsanna data structures algorithms linked lists arrays formal way simulate singly link list array following array store element
+capacity array array capacity,need,value,1.0,cs1_clean.txt,capacity array array capacity need value
+index,tell,head list,1.0,cs1_clean.txt,index tell head list
+onet zsuzsanna data structures,algorithm,sll array representation,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms sll array representation
+representation singly link list array,follow,slla,1.0,cs1_clean.txt,representation singly link list array follow slla
+integer cap integer,related_to,integer cap integer head integer firstempty integer lect,0.4,cs1_clean.txt,integer cap integer head integer firstempty integer lect
+onet zsuzsanna data structures,algorithm,slla operations,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla operations
+sll insert beginning end position,give,delete beginning end position,1.0,cs1_clean.txt,implement slla operation implement sll insert beginning end position give value delete beginning end position give element search element element position lect
+onet zsuzsanna data structures,algorithm,slla search function search slla elem,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla search function search slla elem
+slla slla elem telem,return,false current current,1.0,cs1_clean.txt,slla slla elem telem return true elem slla false current current
+onet zsuzsanna data structures,algorithm,slla search function search slla elem,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla search function search slla elem
+slla slla elem telem,return,false current current,1.0,cs1_clean.txt,slla slla elem telem return true elem slla false current current
+slla search search function element slla similar traversal sll,need,current element traversal initialize index head list,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla search search function element slla similar traversal sll need current element traversal initialize index head list
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+onet zsuzsanna,related_to,slla init,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+onet zsuzsanna,related_to,true post slla slla init capacity,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+onet zsuzsanna data structures,related_to,slla init,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+onet zsuzsanna data structures,related_to,true post slla slla init capacity,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+slla init,related_to,true post slla slla init capacity,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+onet zsuzsanna,related_to,slla init,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+onet zsuzsanna data structures,related_to,slla init,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+onet zsuzsanna,related_to,slla init,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+onet zsuzsanna data structures,related_to,slla init,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+onet zsuzsanna data structures,algorithm,slla insertfirst subalgoritm elem,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertfirst subalgoritm elem
+element elem,related_to,slla,0.4,cs1_clean.txt,element elem add beginning slla
+newelems array position,related_to,newnext array position execute end,0.4,cs1_clean.txt,newelems array position newnext array position execute end execute
+onet zsuzsanna data structures,algorithm,slla insertfirst,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertfirst
+necessary newelems,related_to,newposition elem,0.4,cs1_clean.txt,necessary newelems newnext end newposition elem
+newposition,end,subalgorithm complexity lect,1.0,cs1_clean.txt,newposition end subalgorithm complexity lect
+onet zsuzsanna data structures,algorithm,slla insertfirst,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertfirst
+necessary newelems,related_to,newposition elem,0.4,cs1_clean.txt,necessary newelems newnext end newposition elem
+newposition,related_to,subalgorithm complexity amortize,0.4,cs1_clean.txt,newposition end subalgorithm complexity amortize lect
+onet zsuzsanna data structures,algorithm,slla,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla
+integer,related_to,slla slla elem telem poz integer number element elem insert slla position,0.4,cs1_clean.txt,slla slla elem telem poz integer number element elem insert slla position pos pos invalid position end
+integer,related_to,pos pos invalid position end,0.4,cs1_clean.txt,slla slla elem telem poz integer number element elem insert slla position pos pos invalid position end
+slla slla elem telem poz integer number element elem insert slla position,related_to,pos pos invalid position end,0.4,cs1_clean.txt,slla slla elem telem poz integer number element elem insert slla position pos pos invalid position end
+onet zsuzsanna data structures,algorithm,newelem,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertposition nodcurrent pozcurrent poz execute pozcurrent pozcurrent nodcurrent end nodcurrent atunci newelem
+elem,related_to,newelem slide lect,0.4,cs1_clean.txt,elem newelem slide lect
+onet zsuzsanna data structures,algorithm,subalgorithm complexity lect,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertposition invalid position end end end subalgorithm complexity lect
+onet zsuzsanna data structures,algorithm,subalgorithm complexity lect,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertposition invalid position end end end subalgorithm complexity lect
+onet zsuzsanna data structures,algorithm,slla insertposition observations insertposition,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertposition observations insertposition subalgorithm similar sll iterate list find element insert denote code nodcurrent index array
+slla insertposition observations insertposition,subalgorithm,similar sll iterate list,0.7,cs1_clean.txt,onet zsuzsanna data structures algorithms slla insertposition observations insertposition subalgorithm similar sll iterate list find element insert denote code nodcurrent index array
+node insert,related_to,special case situation insert position node insert,0.4,cs1_clean.txt,treat special case situation insert position node insert
+operation,take,resize,1.0,cs1_clean.txt,operation take parameter position need check valid position element store array need add operation space need resize
+extra position,related_to,list position,0.4,cs1_clean.txt,resize extra position add list position
+onet zsuzsanna data structures,algorithm,subalgorithm elem,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla deleteelement subalgorithm elem
+onet zsuzsanna data structures,algorithm,slla deleteelement nodc position list space,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla deleteelement nodc position list space
+onet zsuzsanna data structures,algorithm,slla iterator,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla iterator
+onet zsuzsanna data structures,algorithm,slla iterator,1.0,cs1_clean.txt,onet zsuzsanna data structures algorithms slla iterator
+link list,go,element incremente currentelement follow link,1.0,cs1_clean.txt,link list go element incremente currentelement follow link
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms
+today,related_to,summary,0.4,cs1_clean.txt,summary today talk xor link list skip list define link list array
+today,related_to,xor link list skip list define link list array,0.4,cs1_clean.txt,summary today talk xor link list skip list define link list array
+summary,related_to,xor link list skip list define link list array,0.4,cs1_clean.txt,summary today talk xor link list skip list define link list array
+extra reading solution problem,related_to,previous extra reading lect,0.4,cs1_clean.txt,extra reading solution problem previous extra reading lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs1_clean.txt,onet zsuzsanna data structures algorithms
+onet zsuzsanna,related_to,onet zsuzsanna babe s bolyai university computer science mathematics faculty lect,0.4,cs2_clean.txt,onet zsuzsanna babe s bolyai university computer science mathematics faculty lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms
+cuckoo hash perfect hash link hash table tree,related_to,lect,0.4,cs2_clean.txt,lecture cuckoo hash perfect hash link hash table tree binary tree lect
+onet zsuzsanna,related_to,today,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree binary search tree lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree binary search tree lect
+onet zsuzsanna,related_to,binary tree binary search tree,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree binary search tree lect
+today,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree binary search tree lect
+today,related_to,binary tree binary search tree,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree binary search tree lect
+onet zsuzsanna data structures algorithms,related_to,binary tree binary search tree,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree binary search tree lect
+onet zsuzsanna data structures,algorithm,binary tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary tree
+recap order tree node child call,related_to,binary tree,0.4,cs2_clean.txt,recap order tree node child call binary tree
+binary tree child node,leave,child,1.0,cs2_clean.txt,binary tree child node left child right child
+onet zsuzsanna data structures,algorithm,possible representation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation want implement binary tree representation use
+option representation array,related_to,similar binary heap link representation dynamic allocation array,0.4,cs2_clean.txt,option representation array similar binary heap link representation dynamic allocation array lect
+onet zsuzsanna data structures,algorithm,possible representation representation array store element array position array root tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation representation array store element array position array root tree leave child node position position
+special value,need,denote place element,1.0,cs2_clean.txt,special value need denote place element
+onet zsuzsanna data structures,algorithm,possible representation ii disadvantage depend form tree waste lot space,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation ii disadvantage depend form tree waste lot space
+lab assignment,allow,use representation,1.0,cs2_clean.txt,lab assignment allow use representation
+onet zsuzsanna data structures,algorithm,possible representation iii link representation dynamic allocation structure,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation iii link representation dynamic allocation structure represent node contain information address left child address right child possibly address parent
+right child,address,parent,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation iii link representation dynamic allocation structure represent node contain information address left child address right child possibly address parent
+node,related_to,node element tree,0.4,cs2_clean.txt,node element tree
+onet zsuzsanna data structures,algorithm,possible representation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation iv link representation array information node place array
+right child index correspond element,find,array,1.0,cs2_clean.txt,address left right child index correspond element find array
+onet zsuzsanna data structures,algorithm,possible representation v,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation v
+link list position,add,new node,1.0,cs2_clean.txt,link list position add new node easy
+onet zsuzsanna data structures,algorithm,possible representation vi link list position,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms possible representation vi link list position create binary tree create
+tree,leave,right array,1.0,cs2_clean.txt,tree non linear datum structure use left right array create singly doubly link list position
+onet zsuzsanna data structures,algorithm,binary tree traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary tree traversal
+node,related_to,node print,0.4,cs2_clean.txt,node binary tree visit program control arrive node usually purpose perform operation node print check value node etc
+binary tree possible traversal preorder inorder postorder level order breadth case,related_to,binary tree,0.4,cs2_clean.txt,binary tree possible traversal preorder inorder postorder level order breadth case non binary tree lect
+onet zsuzsanna data structures,algorithm,binary tree representation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary tree representation following implementation traversal algorithm go use follow representation binary tree
+btnode info telem,leave,right btnode binarytree root btnode lect,1.0,cs2_clean.txt,btnode info telem leave btnode right btnode binarytree root btnode lect
+onet zsuzsanna data structures,algorithm,preorder traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal
+traversal visit root tree traverse,exist,traverse right subtree,1.0,cs2_clean.txt,case preorder traversal visit root tree traverse left subtree exist traverse right subtree exist traverse subtree left right preorder traversal apply left subtree visit root traverse left subtree right subtree
+traverse subtree,leave,right preorder traversal,1.0,cs2_clean.txt,case preorder traversal visit root tree traverse left subtree exist traverse right subtree exist traverse subtree left right preorder traversal apply left subtree visit root traverse left subtree right subtree
+algorithms,preorder,traversal example lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal example lect
+algorithms,preorder,traversal example preorder traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal example preorder traversal
+g q x y j k,related_to,g q x y j k t n o lect,0.4,cs2_clean.txt,g q x y j k t n o lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal recursive implementation simple implementation preorder traversal recursive algorithm
+onet zsuzsanna,related_to,traversal recursive implementation simple implementation preorder traversal recursive algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal recursive implementation simple implementation preorder traversal recursive algorithm
+onet zsuzsanna data structures,related_to,traversal recursive implementation simple implementation preorder traversal recursive algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal recursive implementation simple implementation preorder traversal recursive algorithm
+node,related_to,node nil,0.4,cs2_clean.txt,node btnode node nil
+node,related_to,node btnode node nil,0.4,cs2_clean.txt,node btnode node nil
+node nil,related_to,node btnode node nil,0.4,cs2_clean.txt,node btnode node nil
+parameter pointer node need wrapper subalgorithm,receive,binarytree call function root tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal recursive implementation preorder recursive subalgorithm receive parameter pointer node need wrapper subalgorithm receive binarytree call function root tree
+tree binarytree preorder end subalgorithm,visit,n node,1.0,cs2_clean.txt,tree binarytree preorder end subalgorithm assume visit node take constant time print info node example traversal take n time tree n node
+print info node example traversal,take,time tree,1.0,cs2_clean.txt,tree binarytree preorder end subalgorithm assume visit node take constant time print info node example traversal take n time tree n node
+implementation,implement,preorder traversal algorithm recursion auxiliary stack store node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation implement preorder traversal algorithm recursion auxiliary stack store node
+node s right,related_to,node s,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+node s right,related_to,push root tree,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+node s right,related_to,stack pop node visit,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+node s right,related_to,node s leave child stack lect,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+node s,related_to,push root tree,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+node s,related_to,stack pop node visit,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+node s,related_to,node s leave child stack lect,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+push root tree,related_to,stack pop node visit,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+push root tree,related_to,node s leave child stack lect,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+stack pop node visit,related_to,node s leave child stack lect,0.4,cs2_clean.txt,start stack push root tree stack stack pop node visit push node s right child stack push node s leave child stack lect
+g,visit,g,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation example stack visit push child stack t g visit g push child stack t x q visit q push stack t x visit x push child stack t j y
+y,push,stack t j visit,1.0,cs2_clean.txt,visit y push stack t j visit j push child stack t k visit k push stack t visit t push child stack o n visit n push stack o visit o push stack
+k,visit,k,1.0,cs2_clean.txt,visit y push stack t j visit j push child stack t k visit k push stack t visit t push child stack o n visit n push stack o visit o push stack
+algorithms,preorder,traversal non recursive implementation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation subalgorithm
+tree binary tree s stack auxiliary stack nil end execute,related_to,currentnode,0.4,cs2_clean.txt,tree binary tree s stack auxiliary stack nil end execute currentnode
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna,related_to,traversal non recursive implementation time,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna,related_to,complexity,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna,related_to,non recursive traversal,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna,related_to,n need,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna,related_to,extra space stack,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna data structures,related_to,traversal non recursive implementation time,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna data structures,related_to,complexity,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna data structures,related_to,non recursive traversal,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna data structures,related_to,n need,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+onet zsuzsanna data structures,related_to,extra space stack,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+traversal non recursive implementation time,related_to,complexity,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+traversal non recursive implementation time,related_to,non recursive traversal,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+traversal non recursive implementation time,related_to,n need,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+traversal non recursive implementation time,related_to,extra space stack,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+complexity,related_to,non recursive traversal,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+complexity,related_to,n need,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+complexity,related_to,extra space stack,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+non recursive traversal,related_to,n need,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+non recursive traversal,related_to,extra space stack,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+n need,related_to,extra space stack,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder traversal non recursive implementation time complexity non recursive traversal n need extra space stack
+obs,preorder,traversal exactly depth traversal especially implementation observation,1.0,cs2_clean.txt,obs preorder traversal exactly depth traversal especially implementation observation need careful push right child stack left case depth traversal order push child important
+order,push,child,1.0,cs2_clean.txt,obs preorder traversal exactly depth traversal especially implementation observation need careful push right child stack left case depth traversal order push child important
+algorithms,inorder,traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal
+traverse subtree,leave,apply,1.0,cs2_clean.txt,case inorder traversal traverse left subtree exist visit root tree traverse right subtree exist traverse subtree left right inorder traversal apply left subtree traverse left subtree visit root traverse right subtree
+onet zsuzsanna data structures algorithms,inorder,traversal example lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal example lect
+onet zsuzsanna data structures algorithms,inorder,y x k j n t o lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal example inorder traversal q g y x k j n t o lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal recursive implementation simple implementation inorder traversal recursive algorithm
+onet zsuzsanna,related_to,traversal recursive implementation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal recursive implementation simple implementation inorder traversal recursive algorithm
+onet zsuzsanna data structures algorithms,related_to,traversal recursive implementation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal recursive implementation simple implementation inorder traversal recursive algorithm
+node,related_to,node nil,0.4,cs2_clean.txt,node btnode node nil inorder
+node,related_to,node btnode node nil inorder,0.4,cs2_clean.txt,node btnode node nil inorder
+node nil,related_to,node btnode node nil inorder,0.4,cs2_clean.txt,node btnode node nil inorder
+wrapper subalgorithm,perform,inorder recursive root tree parameter,1.0,cs2_clean.txt,inorder end end subalgorithm need wrapper subalgorithm perform inorder recursive root tree parameter
+traversal,take,time tree,1.0,cs2_clean.txt,traversal take n time tree n node
+onet zsuzsanna data structures algorithms,inorder,traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal non recursive implementation implement inorder traversal algorithm recursion auxiliary stack store node
+recursive implementation,implement,inorder traversal algorithm recursion auxiliary stack store node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal non recursive implementation implement inorder traversal algorithm recursion auxiliary stack store node
+current node set root current node nil push stack set left child stack pop node visit,set,current node right child pop node current node nil push stack set left child lect,1.0,cs2_clean.txt,start stack current node set root current node nil push stack set left child stack pop node visit set current node right child pop node current node nil push stack set left child lect
+onet zsuzsanna data structures algorithms,inorder,traversal non recursive implementation example lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal non recursive implementation example lect
+onet zsuzsanna data structures algorithms,inorder,traversal non recursive implementation example currentnode,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal non recursive implementation example currentnode
+g,visit,g currentnode,1.0,cs2_clean.txt,currentnode nil stack g q visit q currentnode nil stack g visit g currentnode x stack currentnode nil stack x y visit y currentnode nil stack x visit x currentnode j stack
+currentnode nil stack j k visit k currentnode nil,related_to,currentnode nil stack j k visit,0.4,cs2_clean.txt,currentnode nil stack j k visit k currentnode nil stack j visit j currentnode nil stack
+currentnode nil stack j k visit k currentnode nil,related_to,k currentnode nil stack j visit j currentnode nil stack,0.4,cs2_clean.txt,currentnode nil stack j k visit k currentnode nil stack j visit j currentnode nil stack
+currentnode nil stack j k visit,related_to,k currentnode nil stack j visit j currentnode nil stack,0.4,cs2_clean.txt,currentnode nil stack j k visit k currentnode nil stack j visit j currentnode nil stack
+currentnode nil stack,related_to,currentnode nil stack t,0.4,cs2_clean.txt,currentnode nil stack t n
+onet zsuzsanna data structures algorithms,inorder,traversal non recursive implementation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal non recursive implementation subalgorithm
+end execute,related_to,currentnode currentnode currentnode,0.4,cs2_clean.txt,end execute currentnode currentnode currentnode
+onet zsuzsanna data structures algorithms,inorder,lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms inorder traversal non recursive implementation time complexity n extra space complexity lect
+onet zsuzsanna data structures,algorithm,postorder traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal
+case postorder traversal traverse,exist,traverse right subtree,1.0,cs2_clean.txt,case postorder traversal traverse left subtree exist traverse right subtree exist visit root tree traverse subtree left right postorder traversal apply left subtree traverse left subtree traverse right subtree visit root
+right postorder traversal apply,leave,subtree traverse,1.0,cs2_clean.txt,case postorder traversal traverse left subtree exist traverse right subtree exist visit root tree traverse subtree left right postorder traversal apply left subtree traverse left subtree traverse right subtree visit root
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal example lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal example postorder traversal q y k j x g n o t lect
+onet zsuzsanna,related_to,o t,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal example postorder traversal q y k j x g n o t lect
+onet zsuzsanna data structures,related_to,o t,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal example postorder traversal q y k j x g n o t lect
+onet zsuzsanna data structures,algorithm,postorder traversal recursive implementation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal recursive implementation simple implementation postorder traversal recursive algorithm
+node,related_to,node nil,0.4,cs2_clean.txt,node btnode node nil postorder postorder
+node,related_to,node btnode node nil postorder postorder,0.4,cs2_clean.txt,node btnode node nil postorder postorder
+node nil,related_to,node btnode node nil postorder postorder,0.4,cs2_clean.txt,node btnode node nil postorder postorder
+wrapper subalgorithm,perform,postorder recursive root tree parameter,1.0,cs2_clean.txt,end end subalgorithm need wrapper subalgorithm perform postorder recursive root tree parameter
+traversal,take,time tree,1.0,cs2_clean.txt,traversal take n time tree n node
+implementation,implement,slightly complicated preorder inorder traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation implement postorder traversal recursion slightly complicated preorder inorder traversal
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal stack main idea postorder traversal stack build reverse postorder traversal stack
+reverse postorder traversal similar build preorder traversal,related_to,right subtree,0.4,cs2_clean.txt,build reverse postorder traversal similar build preorder traversal need traverse right subtree left
+algorithm similar preorder traversal modification node remove stack,add,second stack,1.0,cs2_clean.txt,algorithm similar preorder traversal modification node remove stack add second stack instead visit
+node,take,right child stack,1.0,cs2_clean.txt,node take stack push left child right child stack
+start,stack,current node set root tree current node nil push stack,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal stack start stack current node set root tree current node nil push stack right child current node exist current node set current node left child
+current node,set,current node left child,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal stack start stack current node set root tree current node nil push stack right child current node exist current node set current node left child
+node,related_to,stack pop node stack current node,0.4,cs2_clean.txt,stack pop node stack current node
+right child pop right child,push,current node,1.0,cs2_clean.txt,current node right child stack contain right child pop right child push current node set current node right child
+node,set,current node left child,1.0,cs2_clean.txt,visit current node set nil current node nil push stack right child current node exist current node set current node left child
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation example lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation example
+node,related_to,node stack,0.4,cs2_clean.txt,node stack
+node nil,related_to,q visit,0.4,cs2_clean.txt,t x g q visit q node nil stack t x g node x stack
+node nil,related_to,node,0.4,cs2_clean.txt,t x g q visit q node nil stack t x g node x stack
+q visit,related_to,node,0.4,cs2_clean.txt,t x g q visit q node nil stack t x g node x stack
+node nil,related_to,y node nil stack t,0.4,cs2_clean.txt,g j x y visit y node nil stack t
+g x node nil,related_to,g x node nil stack t,0.4,cs2_clean.txt,g x node nil stack t
+node,related_to,k node nil stack t,0.4,cs2_clean.txt,g x j k visit k node nil stack t
+g,visit,g node nil stack t,1.0,cs2_clean.txt,g x j visit j node nil stack t g x visit x node nil stack t g visit g node nil stack t
+onet zsuzsanna data structures,algorithm,postorder traversal non recursive implementation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation subalgorithm
+node node nil execute nil,related_to,node,0.4,cs2_clean.txt,tree binarytree s stack auxiliary stack node node nil execute nil end node node
+node node nil execute nil,related_to,binarytree,0.4,cs2_clean.txt,tree binarytree s stack auxiliary stack node node nil execute nil end node node
+node node nil execute nil,related_to,node node nil execute nil end node node,0.4,cs2_clean.txt,tree binarytree s stack auxiliary stack node node nil execute nil end node node
+node,related_to,binarytree,0.4,cs2_clean.txt,tree binarytree s stack auxiliary stack node node nil execute nil end node node
+node,related_to,node node nil execute nil end node node,0.4,cs2_clean.txt,tree binarytree s stack auxiliary stack node node nil execute nil end node node
+binarytree,related_to,node node nil execute nil end node node,0.4,cs2_clean.txt,tree binarytree s stack auxiliary stack node node nil execute nil end node node
+end,execute,node nil,1.0,cs2_clean.txt,end execute node nil
+node node,related_to,th node node,0.4,cs2_clean.txt,th node node
+onet zsuzsanna,related_to,node node nil,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+onet zsuzsanna,related_to,node nil,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+onet zsuzsanna,related_to,node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+onet zsuzsanna,related_to,node nil execute nil end node node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node node nil,related_to,node nil,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node node nil,related_to,node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node node nil,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node node nil,related_to,node nil execute nil end node node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node nil,related_to,node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node nil,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node nil,related_to,node nil execute nil end node node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+node,related_to,node nil execute nil end node node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+onet zsuzsanna data structures,related_to,node nil execute nil end node node,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms postorder traversal non recursive implementation node node nil end node nil execute nil end node node
+subalgorithm time complexity,related_to,extra space complexity,0.4,cs2_clean.txt,end end end subalgorithm time complexity n extra space complexity lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms level order traversal case level order traversal visit root child root child child etc
+g t,related_to,q,0.4,cs2_clean.txt,level order traversal g t q x n o y j k lect
+g t,related_to,n o,0.4,cs2_clean.txt,level order traversal g t q x n o y j k lect
+q,related_to,n o,0.4,cs2_clean.txt,level order traversal g t q x n o y j k lect
+onet zsuzsanna data structures,algorithm,binary tree iterator,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary tree iterator
+interface binary tree,contain,iterator operation return iterator,1.0,cs2_clean.txt,interface binary tree contain iterator operation return iterator
+operation,receive,parameter specify kind traversal want iterator preorder inorder postorder level order,1.0,cs2_clean.txt,operation receive parameter specify kind traversal want iterator preorder inorder postorder level order
+traversal algorithm,discuss,far traverse element binary tree iterator element element traversal,1.0,cs2_clean.txt,traversal algorithm discuss far traverse element binary tree iterator element element traversal
+iterator divide code function iterator init,related_to,valid lect,0.4,cs2_clean.txt,define iterator divide code function iterator init getcurrent valid lect
+postorder,remember,difference traversal,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms preorder inorder postorder remember difference traversal
+root change preorder visit root,leave,right inorder visit root,1.0,cs2_clean.txt,visiting root change preorder visit root left right inorder visit root left right postorder visit root left right lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms think
+look,like,preorder inorder traversal tree,0.7,cs2_clean.txt,assume binary tree know look like preorder inorder traversal tree
+algorithm,build,tree base traversal,1.0,cs2_clean.txt,algorithm build tree base traversal
+example preorder b f g h e l,related_to,g f h l e m,0.4,cs2_clean.txt,example preorder b f g h e l m inorder b g f h l e m lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms think rebuild tree postorder inorder traversal
+onet zsuzsanna,related_to,tree postorder inorder traversal,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms think rebuild tree postorder inorder traversal
+onet zsuzsanna data structures algorithms,related_to,tree postorder inorder traversal,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms think rebuild tree postorder inorder traversal
+onet zsuzsanna data structures,algorithm,binary search tree binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree binary search tree binary tree satisfy follow property x node binary search tree node y left subtree x information y equal information x
+binary tree satisfy,follow,property x node binary search tree node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree binary search tree binary tree satisfy follow property x node binary search tree node y left subtree x information y equal information x
+y,leave,y equal information,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree binary search tree binary tree satisfy follow property x node binary search tree node y left subtree x information y equal information x
+node,related_to,node y right subtree x information y great information,0.4,cs2_clean.txt,node y right subtree x information y great information x
+abstract way,have,definition,1.0,cs2_clean.txt,obviously relation order node consider abstract way instead have definition
+onet zsuzsanna data structures,algorithm,binary search tree example,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree example
+traversal binary search tree element,related_to,increase,0.4,cs2_clean.txt,inorder traversal binary search tree element increase order accord relation
+onet zsuzsanna data structures,algorithm,binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree
+terminology property,discuss,binary tree valid binary search tree binary search tree,1.0,cs2_clean.txt,terminology property discuss binary tree valid binary search tree binary search tree complete complete degenerate balance maximum number node binary search tree height n tree complete
+node,related_to,minimum number node binary search tree height n n tree degenerate,0.4,cs2_clean.txt,minimum number node binary search tree height n n tree degenerate
+binary search tree,denote,h,1.0,cs2_clean.txt,binary search tree n node height n denote height tree h
+binary search tree binary search tree representation sorted container sorted map,sort,set,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree binary search tree representation sorted container sorted map sorted multimap priority queue sorted set etc
+order,related_to,container binary search tree,0.4,cs2_clean.txt,order implement container binary search tree need define follow basic operation search element insert element remove element operation implement binary search tree container minimum maximum element find successor predecessor element
+order,related_to,basic operation search element insert element remove element operation,0.4,cs2_clean.txt,order implement container binary search tree need define follow basic operation search element insert element remove element operation implement binary search tree container minimum maximum element find successor predecessor element
+order,related_to,binary search tree container minimum maximum element find successor predecessor element,0.4,cs2_clean.txt,order implement container binary search tree need define follow basic operation search element insert element remove element operation implement binary search tree container minimum maximum element find successor predecessor element
+container binary search tree,related_to,basic operation search element insert element remove element operation,0.4,cs2_clean.txt,order implement container binary search tree need define follow basic operation search element insert element remove element operation implement binary search tree container minimum maximum element find successor predecessor element
+container binary search tree,related_to,binary search tree container minimum maximum element find successor predecessor element,0.4,cs2_clean.txt,order implement container binary search tree need define follow basic operation search element insert element remove element operation implement binary search tree container minimum maximum element find successor predecessor element
+basic operation search element insert element remove element operation,related_to,binary search tree container minimum maximum element find successor predecessor element,0.4,cs2_clean.txt,order implement container binary search tree need define follow basic operation search element insert element remove element operation implement binary search tree container minimum maximum element find successor predecessor element
+onet zsuzsanna data structures,algorithm,binary search tree representation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree representation
+info telem,related_to,link representation dynamic allocation,0.4,cs2_clean.txt,use link representation dynamic allocation similar binary tree bstnode info telem leave
+info telem,related_to,similar binary tree bstnode info telem,0.4,cs2_clean.txt,use link representation dynamic allocation similar binary tree bstnode info telem leave
+link representation dynamic allocation,related_to,similar binary tree bstnode info telem,0.4,cs2_clean.txt,use link representation dynamic allocation similar binary tree bstnode info telem leave
+bst,contain,relation,1.0,cs2_clean.txt,normally bst contain relation
+onet zsuzsanna data structures,algorithm,binary search tree search operation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree search operation
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna,related_to,algorithms bst search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna,related_to,search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna data structures,related_to,algorithms bst search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna data structures,related_to,search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+algorithms bst search operation,related_to,search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna,related_to,algorithms bst search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna,related_to,search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna data structures,related_to,algorithms bst search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+onet zsuzsanna data structures,related_to,search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+algorithms bst search operation,related_to,search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation implement search algorithm recursively
+node,related_to,function search rec node elem,0.4,cs2_clean.txt,function search rec node elem
+node bstnode,related_to,elem telem,0.4,cs2_clean.txt,node bstnode elem telem search node nil search rec false
+node bstnode,related_to,node nil,0.4,cs2_clean.txt,node bstnode elem telem search node nil search rec false
+node bstnode,related_to,node bstnode elem telem search node nil search rec,0.4,cs2_clean.txt,node bstnode elem telem search node nil search rec false
+elem telem,related_to,node nil,0.4,cs2_clean.txt,node bstnode elem telem search node nil search rec false
+elem telem,related_to,node bstnode elem telem search node nil search rec,0.4,cs2_clean.txt,node bstnode elem telem search node nil search rec false
+node nil,related_to,node bstnode elem telem search node nil search rec,0.4,cs2_clean.txt,node bstnode elem telem search node nil search rec false
+elem search rec,related_to,true elem search rec search elem search rec search elem end end function,0.4,cs2_clean.txt,elem search rec true elem search rec search elem search rec search elem end end function lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation complexity search algorithm
+onet zsuzsanna,related_to,algorithms bst search operation recursive implementation complexity search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation complexity search algorithm
+onet zsuzsanna data structures,related_to,algorithms bst search operation recursive implementation complexity search algorithm,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation complexity search algorithm
+onet zsuzsanna data structures algorithms bst search operation recursive implementation complexity search algorithm h height tree,discuss,height tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation recursive implementation complexity search algorithm h height tree actually discuss height tree n element n
+search algorithm,take,parameter node need wrapper function root tree,1.0,cs2_clean.txt,search algorithm take parameter node need wrapper function root tree
+function search tree,related_to,e,0.4,cs2_clean.txt,function search tree e
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms bst search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna,related_to,non recursive implementation define search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna,related_to,non,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna data structures algorithms bst search operation,related_to,non recursive implementation define search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna data structures algorithms bst search operation,related_to,non,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+non recursive implementation define search operation,related_to,non,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms bst search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna,related_to,non recursive implementation define search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna,related_to,non,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna data structures algorithms bst search operation,related_to,non recursive implementation define search operation,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+onet zsuzsanna data structures algorithms bst search operation,related_to,non,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+non recursive implementation define search operation,related_to,non,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst search operation non recursive implementation define search operation non recursively
+telem,related_to,tree binarysearchtree elem telem search currentnode,0.4,cs2_clean.txt,tree binarysearchtree elem telem search currentnode find false currentnode nil find execute elem find true elem currentnode
+telem,related_to,elem,0.4,cs2_clean.txt,tree binarysearchtree elem telem search currentnode find false currentnode nil find execute elem find true elem currentnode
+telem,related_to,true elem currentnode,0.4,cs2_clean.txt,tree binarysearchtree elem telem search currentnode find false currentnode nil find execute elem find true elem currentnode
+tree binarysearchtree elem telem search currentnode,related_to,elem,0.4,cs2_clean.txt,tree binarysearchtree elem telem search currentnode find false currentnode nil find execute elem find true elem currentnode
+tree binarysearchtree elem telem search currentnode,related_to,true elem currentnode,0.4,cs2_clean.txt,tree binarysearchtree elem telem search currentnode find false currentnode nil find execute elem find true elem currentnode
+elem,related_to,true elem currentnode,0.4,cs2_clean.txt,tree binarysearchtree elem telem search currentnode find false currentnode nil find execute elem find true elem currentnode
+end end search,find,end function,1.0,cs2_clean.txt,end end search find end function lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation lect
+implementation,implement,insert operation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation recursive implementation implement insert operation
+implementation,implement,insert operation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation recursive implementation implement insert operation
+function,related_to,new node,0.4,cs2_clean.txt,start function create new node give information store
+function,related_to,information store,0.4,cs2_clean.txt,start function create new node give information store
+new node,related_to,information store,0.4,cs2_clean.txt,start function create new node give information store
+nil nil initnode node,related_to,nil nil initnode node end function,0.4,cs2_clean.txt,nil nil initnode node end function lect
+node contain e add,contain,node contain e add,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation recursive implementation function insert e node bstnode e tcomp node contain e add tree start node node nil node e insert e insert e end insert rec node end function complexity lect
+node contain e add,contain,node contain e add,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation recursive implementation function insert e node bstnode e tcomp node contain e add tree start node node nil node e insert e insert e end insert rec node end function complexity like case search operation need wrapper function insert rec root tree
+case search operation,need,wrapper function insert rec root tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst insert operation recursive implementation function insert e node bstnode e tcomp node contain e add tree start node node nil node e insert e insert e end insert rec node end function complexity like case search operation need wrapper function insert rec root tree
+minimum element,find,minimum element binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find minimum element find minimum element binary search tree
+onet zsuzsanna data structures algorithms bst,find,minimum element function,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find minimum element function
+tree,binarysearchtree,minimum minimum value tree currentnode,1.0,cs2_clean.txt,tree binarysearchtree minimum minimum value tree currentnode
+currentnode nil,related_to,currentnode nil tree minimum nil execute currentnode,0.4,cs2_clean.txt,currentnode nil tree minimum nil execute currentnode
+minimum end end function,related_to,lect,0.4,cs2_clean.txt,end minimum end end function lect
+onet zsuzsanna data structures algorithms bst,find,minimum element complexity minimum operation lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find minimum element complexity minimum operation lect
+onet zsuzsanna data structures algorithms bst,find,minimum element complexity minimum operation,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find minimum element complexity minimum operation
+implementation minimum,related_to,minimum element subtree case parameter function node tree,0.4,cs2_clean.txt,implementation minimum want find minimum element subtree case parameter function node tree
+implementation,return,node,1.0,cs2_clean.txt,implementation return node contain minimum element instead value depend want operation
+value,depend,want operation,1.0,cs2_clean.txt,implementation return node contain minimum element instead value depend want operation
+parent node,give,find,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms find parent node give node find parent node
+onet zsuzsanna data structures algorithms,find,parent node function node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms find parent node function node
+node,related_to,node nil,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,node root c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,node node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,node root c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,node node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,node node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+tree binarysearchtree node pointer bstnode node nil return parent node nil node root,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+tree binarysearchtree node pointer bstnode node nil return parent node nil node root,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+tree binarysearchtree node pointer bstnode node nil return parent node nil node root,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+c,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+c,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+c node root parent nil c nil node node execute,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+onet zsuzsanna data structures algorithms,find,parent node function node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms find parent node function node
+node,related_to,node nil,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,node root c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,node node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,node root c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,node node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node nil,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,node node,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node root c,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,tree binarysearchtree node pointer bstnode node nil return parent node nil node root,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node node,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+tree binarysearchtree node pointer bstnode node nil return parent node nil node root,related_to,c,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+tree binarysearchtree node pointer bstnode node nil return parent node nil node root,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+tree binarysearchtree node pointer bstnode node nil return parent node nil node root,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+c,related_to,c node root parent nil c nil node node execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+c,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+c node root parent nil c nil node node execute,related_to,c c end end parent,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return parent node nil node root c c node root parent nil c nil node node execute c c end end parent c end end function complexity lect
+node contain value,consider,relation order element,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find successor node give node find node contain value consider relation order element
+node contain value,consider,relation order element,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find successor node give node find node contain value consider relation order element
+node contain value,consider,relation order element,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find successor node give node find node contain value consider relation order element
+onet zsuzsanna data structures algorithms bst,find,successor node function node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find successor node function node
+node,related_to,node nil,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node,related_to,node maximum nil,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node,related_to,tree binarysearchtree node pointer bstnode node nil return,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node,related_to,node value value node nil node maximum nil c nil execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node nil,related_to,node maximum nil,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node nil,related_to,tree binarysearchtree node pointer bstnode node nil return,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node nil,related_to,node value value node nil node maximum nil c nil execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node maximum nil,related_to,tree binarysearchtree node pointer bstnode node nil return,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+node maximum nil,related_to,node value value node nil node maximum nil c nil execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+tree binarysearchtree node pointer bstnode node nil return,related_to,node value value node nil node maximum nil c nil execute,0.4,cs2_clean.txt,tree binarysearchtree node pointer bstnode node nil return node value value node nil node maximum nil c nil execute c
+end successor c p c p nil c,execute,c p p p end successor p end end function,1.0,cs2_clean.txt,end successor c p c p nil c execute c p p p end successor p end end function lect
+algorithms bst,find,successor node complexity successor lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find successor node complexity successor lect
+algorithms bst,find,successor,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst find successor node complexity successor depend parent function parent complexity successor
+node successor algorithm,receive,unique value node,1.0,cs2_clean.txt,instead receive node successor algorithm receive parameter value node assume unique value node
+parent,find,successor node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst finding successor node direct access parent find successor node
+parent,find,successor node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst finding successor node direct access parent find successor node
+single traversal root node time,leave,current node great look,1.0,cs2_clean.txt,single traversal root node time continue leave current node great look
+node variable change variable,find,new node,1.0,cs2_clean.txt,memorize node variable change variable find new node
+onet zsuzsanna data structures algorithms bst,remove,node remove value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst remove node remove value
+onet zsuzsanna data structures algorithms bst,remove,node remove value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst remove node remove value
+onet zsuzsanna data structures algorithms bst,remove,node remove value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst remove node remove value
+onet zsuzsanna data structures algorithms bst,remove,node,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst remove node want remove value node contain value binary search tree case node remove descendant set correspond child parent nil node remove descendant set correspond child parent descendant node remove descendant find maximum left subtree node delete delete maximum find minimum right subtree node delete delete minimum lect
+maximum left subtree node delete delete maximum,find,minimum right subtree node delete delete minimum lect,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms bst remove node want remove value node contain value binary search tree case node remove descendant set correspond child parent nil node remove descendant set correspond child parent descendant node remove descendant find maximum left subtree node delete delete maximum find minimum right subtree node delete delete minimum lect
+onet zsuzsanna data structures,algorithm,binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree think define sorted list binary search tree
+onet zsuzsanna data structures,algorithm,binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree think define sorted list binary search tree
+onet zsuzsanna data structures,algorithm,binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree think define sorted list binary search tree
+node information number node,leave,subtree,1.0,cs2_clean.txt,node information number node left subtree
+onet zsuzsanna data structures,algorithm,binary search tree,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree lect
+onet zsuzsanna data structures,algorithm,binary search tree duplicate value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+binary search tree relation insert,give,order follow value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+onet zsuzsanna data structures,algorithm,binary search tree duplicate value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+binary search tree relation insert,give,order follow value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+onet zsuzsanna data structures,algorithm,binary search tree duplicate value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+binary search tree relation insert,give,order follow value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+onet zsuzsanna data structures,algorithm,binary search tree duplicate value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+binary search tree relation insert,give,order follow value,1.0,cs2_clean.txt,onet zsuzsanna data structures algorithms binary search tree duplicate value start initially binary search tree relation insert give order follow value
+onet zsuzsanna,related_to,today,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree traversal recursive non recursive implementation binary search tree lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree traversal recursive non recursive implementation binary search tree lect
+onet zsuzsanna,related_to,binary tree traversal recursive non recursive implementation binary search tree,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree traversal recursive non recursive implementation binary search tree lect
+today,related_to,onet zsuzsanna data structures algorithms,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree traversal recursive non recursive implementation binary search tree lect
+today,related_to,binary tree traversal recursive non recursive implementation binary search tree,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree traversal recursive non recursive implementation binary search tree lect
+onet zsuzsanna data structures algorithms,related_to,binary tree traversal recursive non recursive implementation binary search tree,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms today binary tree traversal recursive non recursive implementation binary search tree lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs2_clean.txt,onet zsuzsanna data structures algorithms
+onet zsuzsanna,related_to,onet zsuzsanna babe s bolyai university computer science mathematics faculty lect,0.4,cs3_clean.txt,onet zsuzsanna babe s bolyai university computer science mathematics faculty lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+direct address table hash table hash function collision resolution,related_to,separate chain lect,0.4,cs3_clean.txt,lecture direct address table hash table hash function collision resolution separate chain lect
+onet zsuzsanna,related_to,today,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+onet zsuzsanna,related_to,collision resolution coalesce chain collision resolution open address,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+today,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+today,related_to,collision resolution coalesce chain collision resolution open address,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+onet zsuzsanna data structures,related_to,collision resolution coalesce chain collision resolution open address,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+algorithms,coalesce,chain collision resolution coalesce chaining element hash table store inside table link list element field similar link list array,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain collision resolution coalesce chaining element hash table store inside table link list element field similar link list array
+new element insert position place,occupy,position set link element find search,1.0,cs3_clean.txt,new element insert position place occupy position set link element find search
+onet zsuzsanna data structures,algorithm,coalesced chain example,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain example consider hash table size m use coalesce chain collision resolution hash function division method insert table follow element
+hash table size,use,coalesce chain collision resolution hash function division method insert table follow element,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain example consider hash table size m use coalesce chain collision resolution hash function division method insert table follow element
+s,related_to,key key hash lect,0.4,cs3_clean.txt,let s compute value hash function key key hash lect
+onet zsuzsanna data structures,algorithm,example,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms example
+value position position,add,position,1.0,cs3_clean.txt,value position position add position
+position,related_to,firstempty set point position,0.4,cs3_clean.txt,position occupy add position firstempty set point position
+onet zsuzsanna data structures,algorithm,example,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms example
+onet zsuzsanna data structures algorithms,coalesce,chaining representation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chaining representation
+field,related_to,hash table collision resolution coalesce,0.4,cs3_clean.txt,field need represent hash table collision resolution coalesce chaining
+onet zsuzsanna data structures algorithms,coalesce,chaining representation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chaining representation
+field,related_to,hash table collision resolution coalesce,0.4,cs3_clean.txt,field need represent hash table collision resolution coalesce chaining
+algorithms,coalesce,chain insert subalgorithm insert,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain insert subalgorithm insert ht k
+pos,end,current pos,1.0,cs3_clean.txt,pos end current pos
+algorithms,coalesce,chain insert,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain insert ht
+k end end,related_to,subalgorithm complexity average n bad case,0.4,cs3_clean.txt,k end end subalgorithm complexity average n bad case lect
+algorithms,coalesce,subalgorithm,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain changefirstempty subalgorithm
+ht hashtable value,related_to,free position,0.4,cs3_clean.txt,ht hashtable value set free position ht
+execute end end,related_to,subalgorithm complexity,0.4,cs3_clean.txt,execute end end subalgorithm complexity think free space link list case link list array
+onet zsuzsanna data structures,algorithm,coalesced chain search,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain search
+onet zsuzsanna data structures,algorithm,coalesced chain search,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain search
+array,go,find element,1.0,cs3_clean.txt,array go search array start position find element
+compute value hash function check link list start,related_to,position,0.4,cs3_clean.txt,compute value hash function check link list start position
+onet zsuzsanna data structures algorithms,coalesce,array,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chaining remove hash table coalesce chaining essentially array multiple singly link list
+element,related_to,regular singly link list,0.4,cs3_clean.txt,remove element like remove regular singly link list
+example,build,hash table,1.0,cs3_clean.txt,example previously build hash table want remove element like
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+remove,set,check position,1.0,cs3_clean.txt,remove simply set able find search go start position position check position
+obs position link list element,allow,specifically one equal value hash function element link list,1.0,cs3_clean.txt,obs position link list element allow specifically one equal value hash function element link list
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms solution element previous position link list
+onet zsuzsanna,related_to,previous position link list,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms solution element previous position link list
+onet zsuzsanna data structures,related_to,previous position link list,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms solution element previous position link list
+example,remove,pos,1.0,cs3_clean.txt,example remove pos
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms solution element previous position link list
+onet zsuzsanna,related_to,previous position link list,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms solution element previous position link list
+onet zsuzsanna data structures,related_to,previous position link list,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms solution element previous position link list
+example,remove,pos,1.0,cs3_clean.txt,example remove pos
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+element,related_to,search start position currently position link list,0.4,cs3_clean.txt,element go find search start position currently position link list
+obs element position link list,allow,position position hash lect,1.0,cs3_clean.txt,obs element position link list specifically element allow position position hash lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+discuss,describe,remove,1.0,cs3_clean.txt,consider case discuss previously describe remove look like compute value hash function element let s
+compute value hash function element,let,s,1.0,cs3_clean.txt,consider case discuss previously describe remove look like compute value hash function element let s
+p follow link hash table,related_to,element,0.4,cs3_clean.txt,start p follow link hash table find element
+hash elem pos,remove,element,1.0,cs3_clean.txt,element find hash elem pos simply remove element like case singly link list set previous point
+case singly link list,set,previous point,1.0,cs3_clean.txt,element find hash elem pos simply remove element like case singly link list set previous point
+chaining remove subalgorithm elem pos prevpos element,remove,previous pos elem execute,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chaining remove subalgorithm elem pos prevpos element remove previous pos elem execute
+prevpos pos pos,end,pos,1.0,cs3_clean.txt,prevpos pos pos end pos
+false true hash pos repeat p,related_to,pp pos,0.4,cs3_clean.txt,exist false true hash pos repeat p pp pos p
+pp p p end,related_to,end slide lect,0.4,cs3_clean.txt,pos execute pp p p end slide lect
+onet zsuzsanna data structures,algorithm,true,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms p true
+pp pos p end element pos,remove,element hash,1.0,cs3_clean.txt,element position p pos prevpos pp pos p end element pos remove element hash
+prevpos slide explanation idx idx prevpos,execute,pos prevpos idx idx idx end end end slide,1.0,cs3_clean.txt,prevpos slide explanation idx idx prevpos execute pos prevpos idx idx idx end end end slide
+onet zsuzsanna data structures,algorithm,prevpos,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms prevpos
+onet zsuzsanna data structures,algorithm,prevpos,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms prevpos
+end,related_to,pos pos end end end,0.4,cs3_clean.txt,end pos pos end end end subalgorithm complexity average lect
+end,related_to,subalgorithm complexity average lect,0.4,cs3_clean.txt,end pos pos end end end subalgorithm complexity average lect
+pos pos end end end,related_to,subalgorithm complexity average lect,0.4,cs3_clean.txt,end pos pos end end end subalgorithm complexity average lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+happen element,related_to,right position,0.4,cs3_clean.txt,happen element need remove right position
+case,related_to,previous implementation prev,0.4,cs3_clean.txt,case assume element previous implementation prev true
+example element,related_to,pos,0.4,cs3_clean.txt,example element pos
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+loop,happen,position,1.0,cs3_clean.txt,loop happen rarely element find position hash element hash position
+table,like,operation increase complexity function,0.7,cs3_clean.txt,have loop go element table hash table like operation increase complexity function
+onet zsuzsanna data structures,algorithm,coalesced chain iterator,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms coalesced chain iterator
+implement,related_to,iterator,0.4,cs3_clean.txt,implement iterator
+table,inside,table pointer link,0.7,cs3_clean.txt,onet zsuzsanna data structures algorithms open address case open address element hash table inside table pointer link
+insert new element,generate,position element check probe generate position place element,1.0,cs3_clean.txt,want insert new element successively generate position element check probe generate position place element available
+order,generate,multiple position,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address order generate multiple position extend hash function add parameter probe number start
+k,examine,position,1.0,cs3_clean.txt,h u m m element k successively examine position
+probe sequence probe sequence permutation hash table position,related_to,m eventually slot,0.4,cs3_clean.txt,m call probe sequence probe sequence permutation hash table position m eventually slot consider
+hash function,generate,possible permutation spoiler alert,1.0,cs3_clean.txt,like hash function generate m possible permutation spoiler alert
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probe version define hash function use linear probing
+linear probe version,define,hash function,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probe version define hash function use linear probing
+algorithms,use,probing,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probe version define hash function use linear probing
+h k mod m m h k,related_to,k k mod m,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+h k mod m m h k,related_to,k h,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+h k mod m m h k,related_to,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+h k mod m m h k,related_to,h k m h k lect,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+k k mod m,related_to,k h,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+k k mod m,related_to,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+k k mod m,related_to,h k m h k lect,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+k h,related_to,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+k h,related_to,h k m h k lect,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+h k mod m m h k simple hash function example h k k mod m probe sequence linear probe,related_to,h k m h k lect,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probing example consider hash table size m use open addressing linear probe collision resolution insert table follow element
+hash table size,use,open addressing linear probe collision resolution insert table follow element,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probing example consider hash table size m use open addressing linear probe collision resolution insert table follow element
+onet zsuzsanna data structures,algorithm,probing example lect,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probing example lect
+onet zsuzsanna data structures,algorithm,distinct probe sequence,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probe example disadvantages linear probe m distinct probe sequence starting position fix
+onet zsuzsanna data structures,algorithm,open address linear,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probing primary clustering primary cluster problem
+m,related_to,position,0.4,cs3_clean.txt,assume m position n element n
+m,related_to,element,0.4,cs3_clean.txt,assume m position n element n
+position,related_to,element,0.4,cs3_clean.txt,assume m position n element n
+best case arrangement second position example position,occupy,one,1.0,cs3_clean.txt,best case arrangement second position example position occupy odd one free
+average number probe position,related_to,insert new element,0.4,cs3_clean.txt,average number probe position verify need check insert new element
+onet zsuzsanna data structures,algorithm,open address linear,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address linear probing primary clustering primary cluster problem
+m,related_to,position,0.4,cs3_clean.txt,assume m position n element n
+m,related_to,element,0.4,cs3_clean.txt,assume m position n element n
+position,related_to,element,0.4,cs3_clean.txt,assume m position n element n
+best case arrangement second position example position,occupy,one,1.0,cs3_clean.txt,best case arrangement second position example position occupy odd one free
+average number probe position,related_to,insert new element,0.4,cs3_clean.txt,average number probe position verify need check insert new element
+second,related_to,bad case arrangement n element,0.4,cs3_clean.txt,bad case arrangement n element assume second half array
+second,related_to,second half,0.4,cs3_clean.txt,bad case arrangement n element assume second half array
+bad case arrangement n element,related_to,second half,0.4,cs3_clean.txt,bad case arrangement n element assume second half array
+average number probe position,related_to,insert new element,0.4,cs3_clean.txt,average number probe position verify need check insert new element
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing case quadratic probe hash function
+h k mod m m h k,related_to,k k mod m,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+h k mod m m h k,related_to,h,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+h k mod m m h k,related_to,k mod,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+k k mod m,related_to,h,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+k k mod m,related_to,k mod,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+h,related_to,k mod,0.4,cs3_clean.txt,h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+onet zsuzsanna data structures,algorithm,quadratic probe important issue,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probe important issue quadratic probing choose value m probe sequence permutation
+number half,related_to,half,0.4,cs3_clean.txt,m prime number half probe sequence unique hash table half guarantee space find
+number half,related_to,prime number half probe sequence unique hash table,0.4,cs3_clean.txt,m prime number half probe sequence unique hash table half guarantee space find
+number half,related_to,half guarantee space,0.4,cs3_clean.txt,m prime number half probe sequence unique hash table half guarantee space find
+half,related_to,prime number half probe sequence unique hash table,0.4,cs3_clean.txt,m prime number half probe sequence unique hash table half guarantee space find
+half,related_to,half guarantee space,0.4,cs3_clean.txt,m prime number half probe sequence unique hash table half guarantee space find
+prime number half probe sequence unique hash table,related_to,half guarantee space,0.4,cs3_clean.txt,m prime number half probe sequence unique hash table half guarantee space find
+example m k,related_to,example,0.4,cs3_clean.txt,example m k probe sequence
+example m k,related_to,k probe sequence,0.4,cs3_clean.txt,example m k probe sequence
+example,related_to,k probe sequence,0.4,cs3_clean.txt,example m k probe sequence
+example m k,related_to,example m k probe sequence lect,0.4,cs3_clean.txt,example m k probe sequence lect
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing m power probe sequence permutation
+example m k,related_to,example,0.4,cs3_clean.txt,example m k
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing m prime number form k probe sequence etc
+example m k,related_to,k lect,0.4,cs3_clean.txt,example m k lect
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing example consider hash table size m use open address quadratic probe collision resolution h k hash function define division method
+quadratic probing example,consider,quadratic probe collision resolution h k hash function define division method,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing example consider hash table size m use open address quadratic probe collision resolution h k hash function define division method
+hash table size,use,address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing example consider hash table size m use open address quadratic probe collision resolution h k hash function define division method
+onet zsuzsanna data structures,algorithm,quadratic probing example lect,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probing example lect
+onet zsuzsanna data structures,algorithm,open address,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open address quadratic probe example disadvantage quadratic probing performance sensitive value m
+distinct probe sequence,related_to,position sequence,0.4,cs3_clean.txt,m distinct probe sequence starting position sequence fix
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing case double hash hash function
+onet zsuzsanna,related_to,double hashing case double hash hash function,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing case double hash hash function
+onet zsuzsanna data structures algorithms,related_to,double hashing case double hash hash function,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing case double hash hash function
+key k position,examine,function h k,1.0,cs3_clean.txt,key k position examine h k probed position compute base second hash function h k
+k,probe,position compute base second hash function,1.0,cs3_clean.txt,key k position examine h k probed position compute base second hash function h k
+onet zsuzsanna data structures algorithms,open,h,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash similar quadratic probing combination m h k return complete permutation probe sequence
+order,produce,permutation m value,1.0,cs3_clean.txt,order produce permutation m value h k relatively prime
+power design h way,related_to,odd number,0.4,cs3_clean.txt,achieve way choose m power design h way return odd number
+return value,set,k return,1.0,cs3_clean.txt,choose m prime number design h way return value set actually set h k return
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+onet zsuzsanna,related_to,double hash,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+onet zsuzsanna,related_to,return value,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+onet zsuzsanna data structures algorithms,related_to,double hash,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+onet zsuzsanna data structures algorithms,related_to,return value,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+double hash,related_to,return value,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+k h h,related_to,k,0.4,cs3_clean.txt,m k h h
+onet zsuzsanna,related_to,k h k,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+onet zsuzsanna,related_to,double hashing example,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+onet zsuzsanna,related_to,hash table size,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+k h k,related_to,onet zsuzsanna data structures algorithms,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+k h k,related_to,double hashing example,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+k h k,related_to,hash table size,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+onet zsuzsanna data structures algorithms,related_to,double hashing example,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+onet zsuzsanna data structures algorithms,related_to,hash table size,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+double hashing example,related_to,hash table size,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example lect
+onet zsuzsanna,related_to,double hashing example lect,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example lect
+onet zsuzsanna data structures algorithms,related_to,double hashing example lect,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures algorithms,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example main advantage double hashing probe sequence different
+onet zsuzsanna,related_to,double hashing example main advantage double hashing probe sequence,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example main advantage double hashing probe sequence different
+onet zsuzsanna data structures algorithms,related_to,double hashing example main advantage double hashing probe sequence,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing double hashing example main advantage double hashing probe sequence different
+k,pair,separate probe sequence,1.0,cs3_clean.txt,example h k h k pair separate probe sequence double hashing generate different permutation
+algorithms,open,addressing operation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing operation following discuss implementation basic dictionary operation collision resolution open addressing
+open,following,addressing,0.7,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing operation following discuss implementation basic dictionary operation collision resolution open addressing
+notation hash function,related_to,quadratic probe double hashing code implementation,0.4,cs3_clean.txt,use notation hash function mention linear probe quadratic probe double hashing code implementation h different
+onet zsuzsanna data structures algorithms,open,addressing representation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing representation
+field,represent,hash table collision resolution open addressing,1.0,cs3_clean.txt,field need represent hash table collision resolution open addressing
+onet zsuzsanna data structures algorithms,open,addressing representation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing representation
+field,represent,hash table collision resolution open addressing,1.0,cs3_clean.txt,field need represent hash table collision resolution open addressing
+integer h,related_to,tfunction,0.4,cs3_clean.txt,t tkey m integer h tfunction
+integer h,related_to,t tkey,0.4,cs3_clean.txt,t tkey m integer h tfunction
+integer h,related_to,h tfunction,0.4,cs3_clean.txt,t tkey m integer h tfunction
+tfunction,related_to,t tkey,0.4,cs3_clean.txt,t tkey m integer h tfunction
+tfunction,related_to,h tfunction,0.4,cs3_clean.txt,t tkey m integer h tfunction
+t tkey,related_to,h tfunction,0.4,cs3_clean.txt,t tkey m integer h tfunction
+onet zsuzsanna data structures algorithms,open,addressing insert,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing insert
+onet zsuzsanna data structures algorithms,open,addressing insert,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing insert
+e,add,ht pos,1.0,cs3_clean.txt,e add ht pos
+pos end rehash compute,related_to,pos end rehash compute position e ht,0.4,cs3_clean.txt,pos end rehash compute position e ht
+e end end,related_to,subalgorithm,0.4,cs3_clean.txt,e end end subalgorithm lect
+onet zsuzsanna data structures algorithms,open,addressing operation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing operation
+onet zsuzsanna data structures algorithms,open,addressing operation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing operation
+onet zsuzsanna data structures algorithms,open,addressing operation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing operation
+element hash table,related_to,simple mark position search,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element lect
+element hash table,related_to,element lect,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element lect
+simple mark position search,related_to,element lect,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element lect
+onet zsuzsanna data structures algorithms,open,addressing operation,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing operation
+element hash table,related_to,simple mark position search,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+element hash table,related_to,element element search find element remove,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+element hash table,related_to,mark delete position special value,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+simple mark position search,related_to,element element search find element remove,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+simple mark position search,related_to,mark delete position special value,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+element element search find element remove,related_to,mark delete position special value,0.4,cs3_clean.txt,remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+algorithms,open,search,1.0,cs3_clean.txt,onet zsuzsanna data structures algorithms open addressing performance hash table open addressing load factor n m average number probe insert unsuccessful search successful search
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+today,related_to,summary today talk coalesced chain open address,0.4,cs3_clean.txt,summary today talk coalesced chain open address lect
+onet zsuzsanna,related_to,onet zsuzsanna data structures,0.4,cs3_clean.txt,onet zsuzsanna data structures algorithms
+septimiu crivei,related_to,septimiu crivei chapter,0.4,math1_clean.txt,septimiu crivei chapter
+matrix linear systems elementary operation applications elementary operation application lu decomposition present matrix decomposition,offer,efficient way compute inverse determinant matrix,1.0,math1_clean.txt,matrix linear systems elementary operation applications elementary operation application lu decomposition present matrix decomposition offer efficient way compute inverse determinant matrix solve square linear system equation
+chapter k,related_to,elementary operation course elementary operation present chapter k denote field,0.4,math1_clean.txt,elementary operation course elementary operation present chapter k denote field m n n
+chapter k,related_to,m,0.4,math1_clean.txt,elementary operation course elementary operation present chapter k denote field m n n
+elementary operation course elementary operation present chapter k denote field,related_to,m,0.4,math1_clean.txt,elementary operation course elementary operation present chapter k denote field m n n
+definition,let,v vector space elementary operation function,1.0,math1_clean.txt,definition let v vector space elementary operation function ij ij v n v n define
+let,ij,define,0.7,math1_clean.txt,definition let v vector space elementary operation function ij ij v n v n define
+vn v n,related_to,v,0.4,math1_clean.txt,vn v n
+k,related_to,ij,0.4,math1_clean.txt,vn k ij
+property elementary operation,theorem,previous notation ij,1.0,math1_clean.txt,vn elementary operation course property elementary operation theorem previous notation ij
+theorem,vn,elementary operation course,0.7,math1_clean.txt,vn elementary operation course property elementary operation theorem previous notation ij
+easy v n structure vector,related_to,easy v n structure vector space k operation define,0.4,math1_clean.txt,easy v n structure vector space k operation define
+vn v,related_to,v,0.4,math1_clean.txt,vn v
+v n v,related_to,v,0.4,math1_clean.txt,v n v
+vn v n,related_to,v,0.4,math1_clean.txt,vn v n
+vn v,related_to,v,0.4,math1_clean.txt,vn v
+n,v,easy check,0.7,math1_clean.txt,v n v easy check ij ij k linear map
+v,ij,k linear map,0.7,math1_clean.txt,v n v easy check ij ij k linear map
+inverse,ij,ji,0.7,math1_clean.txt,bijection have inverse ij ji
+elementary operation course equivalent list vector definition,let,v vector space,1.0,math1_clean.txt,elementary operation course equivalent list vector definition let v vector space
+call,apply,finite number elementary operation,1.0,math1_clean.txt,list x x vector vector space v n k call equivalent obtain apply finite number elementary operation exist finite composition v n v n elementary operation x x x
+obtain,apply,finite number elementary operation,1.0,math1_clean.txt,composition v n v n elementary operation obviously bijective list obtain apply finite number elementary operation
+equivalent,justify,fact,1.0,math1_clean.txt,equivalent justify fact previously define relation equivalence relation reflexive transitive symmetric
+relation equivalence relation,reflexive,transitive symmetric,1.0,math1_clean.txt,equivalent justify fact previously define relation equivalence relation reflexive transitive symmetric
+elementary operation course properties,let,basis,1.0,math1_clean.txt,elementary operation course properties equivalent list theorem let v vector space k let x x equivalent list vector vector space v n x linearly independent v n x linearly independent v ii x system generator v n x system generator v iii x basis v n x basis v proof
+vector space k,let,equivalent list vector vector space v,1.0,math1_clean.txt,elementary operation course properties equivalent list theorem let v vector space k let x x equivalent list vector vector space v n x linearly independent v n x linearly independent v ii x system generator v n x system generator v iii x basis v n x basis v proof
+let,v,proof,0.7,math1_clean.txt,elementary operation course properties equivalent list theorem let v vector space k let x x equivalent list vector vector space v n x linearly independent v n x linearly independent v ii x system generator v n x system generator v iii x basis v n x basis v proof
+list,exist,finite composition v n v n elementary operation,1.0,math1_clean.txt,list x x equivalent exist finite composition v n v n elementary operation x x
+elementary operation isomorphism,follow,isomorphism,1.0,math1_clean.txt,elementary operation isomorphism follow isomorphism
+isomorphism,preserve,linearly independent list system generator basis,1.0,math1_clean.txt,know isomorphism preserve linearly independent list system generator basis
+elementary operation course elementary operation matrix follow,apply,previously present theory elementary operation case vector space,1.0,math1_clean.txt,elementary operation course elementary operation matrix follow let apply previously present theory elementary operation case vector space mm m n matrix
+aij mm,related_to,matrix aij mm list vector,0.4,math1_clean.txt,matrix aij mm list vector
+column,related_to,amj,0.4,math1_clean.txt,column aj amj
+zero,related_to,multiply column matrix non zero scalar,0.4,math1_clean.txt,multiply column matrix non zero scalar
+multiply column,add,result column matrix,1.0,math1_clean.txt,multiply column matrix scalar add result column matrix
+matrix equivalent,obtain,finite number elementary operation,1.0,math1_clean.txt,matrix equivalent obtain finite number elementary operation
+elementary matrix theorem value elementary operation,apply,matrix aij mm see list column vector,1.0,math1_clean.txt,elementary operation course elementary matrix theorem value elementary operation apply matrix aij mm see list column vector
+equal multiplied right hand matrix,obtain,identity matrix see list column,1.0,math1_clean.txt,equal multiplied right hand matrix obtain identity matrix see list column apply elementary operation
+simplicity writing,related_to,theorem column,0.4,math1_clean.txt,simplicity writing go prove theorem column involve elementary operation
+simplicity writing,related_to,elementary operation,0.4,math1_clean.txt,simplicity writing go prove theorem column involve elementary operation
+theorem column,related_to,elementary operation,0.4,math1_clean.txt,simplicity writing go prove theorem column involve elementary operation
+matrix,obtain,interchange column,1.0,math1_clean.txt,matrix obtain interchange column
+elementary operation course,related_to,elementary matrix,0.4,math1_clean.txt,elementary operation course elementary matrix iii
+matrix,obtain,multiply column,1.0,math1_clean.txt,matrix obtain multiply column
+elementary operation course,obtain,second column,1.0,math1_clean.txt,elementary operation course elementary matrix v matrix obtain multiply second column add column
+definition matrix form eij,related_to,ei eij,0.4,math1_clean.txt,definition matrix form eij ei eij obtain apply elementary operation identity matrix call elementary matrix
+definition matrix form eij,related_to,elementary operation identity matrix call elementary matrix,0.4,math1_clean.txt,definition matrix form eij ei eij obtain apply elementary operation identity matrix call elementary matrix
+ei eij,related_to,elementary operation identity matrix call elementary matrix,0.4,math1_clean.txt,definition matrix form eij ei eij obtain apply elementary operation identity matrix call elementary matrix
+non,apply,elementary operation,1.0,math1_clean.txt,determinant remain non zero apply elementary operation
+aij mm,related_to,possible matrix aij mm list vector,0.4,math1_clean.txt,possible matrix aij mm list vector
+elementary operation row value elementary operation,apply,equal multiply left hand matrix,1.0,math1_clean.txt,case elementary operation row value elementary operation apply equal multiply left hand matrix obtain identity matrix m apply elementary operation
+m,apply,elementary operation,1.0,math1_clean.txt,case elementary operation row value elementary operation apply equal multiply left hand matrix obtain identity matrix m apply elementary operation
+reason method compute rank matrix,solve,linear system equation,1.0,math1_clean.txt,reason method compute rank matrix solve linear system equation apply elementary operation row matrix
+elementary operation course echelon form matrix,give,well equivalent matrix,1.0,math1_clean.txt,elementary operation course echelon form matrix give matrix look well equivalent matrix
+mm,related_to,definition matrix mm row echelon form r non zero row row,0.4,math1_clean.txt,definition matrix mm row echelon form r non zero row row
+r non zero row,related_to,r,0.4,math1_clean.txt,r non zero row r
+zero,related_to,number zero,0.4,math1_clean.txt,m zero denote number zero element beginning row
+zero,related_to,zero denote number zero element,0.4,math1_clean.txt,m zero denote number zero element beginning row
+zero,related_to,beginning row,0.4,math1_clean.txt,m zero denote number zero element beginning row
+number zero,related_to,zero denote number zero element,0.4,math1_clean.txt,m zero denote number zero element beginning row
+number zero,related_to,beginning row,0.4,math1_clean.txt,m zero denote number zero element beginning row
+zero denote number zero element,related_to,beginning row,0.4,math1_clean.txt,m zero denote number zero element beginning row
+mm,related_to,mm equivalent matrix echelon form,0.4,math1_clean.txt,mm equivalent matrix echelon form
+elementary operation course example,consider,matrix,1.0,math1_clean.txt,elementary operation course example consider matrix
+elementary operation row,related_to,follow succession equivalent matrix denote equivalence,0.4,math1_clean.txt,apply elementary operation row follow succession equivalent matrix denote equivalence
+point pivot,put,box,1.0,math1_clean.txt,point pivot put box
+step multiply row,add,second row row,1.0,math1_clean.txt,step multiply row add second row row respectively
+second step multiply,add,row,1.0,math1_clean.txt,second step multiply second row add row
+aij mm,see,list row vector,1.0,math1_clean.txt,matrix trapezoidal echelon form equivalent elementary operation course applications lemma let aij mm see list row vector
+linearly independent k,exist,non zero minor order r matrix proof,1.0,math1_clean.txt,consist r vector linearly independent k n exist non zero minor order r matrix proof
+simplicity,consider,sublist,1.0,math1_clean.txt,simplicity let consider sublist x
+kr k system zero,related_to,kr k system zero solution,0.4,math1_clean.txt,kr k system zero solution
+aij mm,see,list row vector,1.0,math1_clean.txt,non zero minor order r elementary operation course computation rank theorem let aij mm see list row vector
+maximum number,related_to,linearly independent vector list,0.4,math1_clean.txt,maximum number linearly independent vector list
+zero,related_to,maximum order,0.4,math1_clean.txt,maximum order non zero minor
+zero,related_to,non zero minor,0.4,math1_clean.txt,maximum order non zero minor
+maximum order,related_to,non zero minor,0.4,math1_clean.txt,maximum order non zero minor
+identity matrix,related_to,elementary operation,0.4,math1_clean.txt,obtain identity matrix apply elementary operation obtain proof
+identity matrix,related_to,proof,0.4,math1_clean.txt,obtain identity matrix apply elementary operation obtain proof
+elementary operation,related_to,proof,0.4,math1_clean.txt,obtain identity matrix apply elementary operation obtain proof
+elementary operation matrix c echelon form,have,non zero row,1.0,math1_clean.txt,apply elementary operation matrix c echelon form have n non zero row
+zero principal,apply,elementary operation row,1.0,math1_clean.txt,zero principal diagonal apply elementary operation row start row
+zero,related_to,rank n element diagonal non zero multiply,0.4,math1_clean.txt,rank n element diagonal non zero multiply inverse
+identity matrix,related_to,elementary operation,0.4,math1_clean.txt,obtain identity matrix apply elementary operation obtain example
+identity matrix,related_to,example,0.4,math1_clean.txt,obtain identity matrix apply elementary operation obtain example
+elementary operation,related_to,example,0.4,math1_clean.txt,obtain identity matrix apply elementary operation obtain example
+method,obtain,inverse,1.0,math1_clean.txt,method obtain inverse
+elementary operation course extra lu decomposition definition matrix lu decomposition,write,l u low triangular matrix l matrix element principal diagonal zero upper triangular matrix,1.0,math1_clean.txt,elementary operation course extra lu decomposition definition matrix lu decomposition write l u low triangular matrix l matrix element principal diagonal zero upper triangular matrix u matrix element principal diagonal zero
+permutation matrix,obtain,decomposition,1.0,math1_clean.txt,permutation matrix p matrix obtain repeatedly interchange row column identity matrix p lu decomposition
+l u compute,related_to,determinant inverse l u compute easy determinant inverse,0.4,math1_clean.txt,determinant inverse l u compute easy determinant inverse
+extra lu decomposition iii correspond interchange row p l,related_to,extra lu decomposition iii correspond interchange row,0.4,math1_clean.txt,extra lu decomposition iii correspond interchange row p l u product low triangular matrix l upper triangular matrix
+extra lu decomposition iii correspond interchange row p l,related_to,p l u product low triangular matrix l upper triangular matrix,0.4,math1_clean.txt,extra lu decomposition iii correspond interchange row p l u product low triangular matrix l upper triangular matrix
+extra lu decomposition iii correspond interchange row,related_to,p l u product low triangular matrix l upper triangular matrix,0.4,math1_clean.txt,extra lu decomposition iii correspond interchange row p l u product low triangular matrix l upper triangular matrix
+mathematical analysis year,related_to,mihai,0.4,math2_clean.txt,mathematical analysis year computer science mihai nechita
+mathematical analysis year,related_to,mathematical analysis year computer science mihai nechita,0.4,math2_clean.txt,mathematical analysis year computer science mihai nechita
+mihai,related_to,mathematical analysis year computer science mihai nechita,0.4,math2_clean.txt,mathematical analysis year computer science mihai nechita
+november,related_to,update november content,0.4,math2_clean.txt,update november content
+power series,limit,continuity di erentiability,1.0,math2_clean.txt,power series limits continuity di erentiability
+nd typo,related_to,know,0.4,math2_clean.txt,nd typo let know teams email
+nd typo,related_to,teams,0.4,math2_clean.txt,nd typo let know teams email
+know,related_to,teams,0.4,math2_clean.txt,nd typo let know teams email
+mathematical analysis real number real number,start,standard notation,1.0,math2_clean.txt,mathematical analysis real number real number let start standard notation set n
+integer q z,related_to,integer,0.4,math2_clean.txt,n set integer q z set rational number r set real number
+integer q z,related_to,z set rational number r,0.4,math2_clean.txt,n set integer q z set rational number r set real number
+integer,related_to,z set rational number r,0.4,math2_clean.txt,n set integer q z set rational number r set real number
+real number reason property de nition,give,nition,1.0,math2_clean.txt,straightforwardly start work real number reason property de nition simply give de nition
+r,set,low bound r,1.0,math2_clean.txt,de ne r set low bound r set upper bound
+max,related_to,de ne r minimum maximum denote min respectively max,0.4,math2_clean.txt,de ne r minimum maximum denote min respectively max
+max max,related_to,word min min max max,0.4,math2_clean.txt,word min min max max
+note,set,minimum maximum,1.0,math2_clean.txt,note set minimum maximum
+sup,related_to,r supremum,0.4,math2_clean.txt,r supremum r sup
+sup,related_to,r sup,0.4,math2_clean.txt,r supremum r sup
+r supremum,related_to,r sup,0.4,math2_clean.txt,r supremum r sup
+mathematical analysis real number supremum,related_to,upper bind sup,0.4,math2_clean.txt,mathematical analysis real number supremum upper bind sup min
+r,related_to,bound mum,0.4,math2_clean.txt,similarly set r bound mum
+max,related_to,maximum sup max,0.4,math2_clean.txt,note maximum sup max
+minimum,inf,min,1.0,math2_clean.txt,similarly minimum inf min
+sup max,inf,min,1.0,math2_clean.txt,n sup max inf min
+sup max,inf,min,1.0,math2_clean.txt,b q sup max inf min
+sup,related_to,true sup,0.4,math2_clean.txt,sup inf follow true sup inf
+ne,extend,real line,1.0,math2_clean.txt,de ne extended real line r r r
+mathematical analysis real number seminar,related_to,bound number,0.4,math2_clean.txt,mathematical analysis real number seminar set bound number
+r,follow,set call closure cl,1.0,math2_clean.txt,following set call interior int r follow set call closure cl r
+r,hold,int cl,1.0,math2_clean.txt,r hold int cl
+open su cient,related_to,int,0.4,math2_clean.txt,prove set open su cient prove int
+close su cient,related_to,cl,0.4,math2_clean.txt,prove set close su cient prove cl
+open set int denote,related_to,c r complement,0.4,math2_clean.txt,consider open set int denote c r complement
+c,related_to,cl,0.4,math2_clean.txt,prove c closed prove cl c
+s,assume,c,1.0,math2_clean.txt,consider cl c let s assume c aim obtain contradiction
+exist,give,c,1.0,math2_clean.txt,open exist give c contradiction cl c
+assumption,related_to,c false cl,0.4,math2_clean.txt,assumption c false cl c
+word,related_to,cl c proposition,0.4,math2_clean.txt,word cl c proposition
+optional,leave,extra homework,1.0,math2_clean.txt,optional leave extra homework
+mathematical analysis sequences sequences,set,call sequence denote,1.0,math2_clean.txt,mathematical analysis sequences sequences set n call sequence denote n simply
+lim n,related_to,sequence limit r write lim,0.4,math2_clean.txt,sequence limit r write lim n
+sequence,related_to,r lim proposition,0.4,math2_clean.txt,sequence converge r lim proposition
+theorem n sup,related_to,theorem,0.4,math2_clean.txt,theorem n sup
+theorem n sup,related_to,sup,0.4,math2_clean.txt,theorem n sup
+theorem,related_to,sup,0.4,math2_clean.txt,theorem n sup
+sequence,converge,sup de nition,1.0,math2_clean.txt,sequence converge sup de nition
+bounded sequence,related_to,mum,0.4,math2_clean.txt,similarly decrease bounded sequence converge mum
+monotone sequence,limit,proof,1.0,math2_clean.txt,monotone sequence limit proof
+sequence,bind,monotone convergent weierstrass theorem,1.0,math2_clean.txt,sequence bound monotone convergent weierstrass theorem
+lim lim,related_to,rst,0.4,math2_clean.txt,let lim lim assume rst let
+max,related_to,max conclusion,0.4,math2_clean.txt,take max conclusion
+theorem cantor s nest,related_to,theorem cantor s nest interval,0.4,math2_clean.txt,theorem cantor s nest interval
+increase decrease,consider,close interval,1.0,math2_clean.txt,let increase decrease consider close interval
+lim exist r,related_to,lim,0.4,math2_clean.txt,lim exist r
+bisect notice,contain,nitely term sequence,1.0,math2_clean.txt,bisect notice half contain nitely term sequence
+procedure obtain,related_to,interval contain term,0.4,math2_clean.txt,continue procedure obtain n interval contain term
+cantor s nest interval theorem exist r subsequence,related_to,cantor s nest interval theorem,0.4,math2_clean.txt,cantor s nest interval theorem exist r subsequence converge
+cantor s nest interval theorem exist r subsequence,related_to,r subsequence,0.4,math2_clean.txt,cantor s nest interval theorem exist r subsequence converge
+cantor s nest interval theorem,related_to,r subsequence,0.4,math2_clean.txt,cantor s nest interval theorem exist r subsequence converge
+lim r,exist,subsequence,1.0,math2_clean.txt,sequence de ne set limit point lim r exist subsequence lim inf inf lim sup
+lim lim,inf,lim sup proposition,1.0,math2_clean.txt,lim lim inf lim sup proposition
+lim r lim,inf,lim sup,1.0,math2_clean.txt,lim r lim inf lim sup
+term index,bind,nite number,1.0,math2_clean.txt,term index bound nite number
+s,consider,rst convergent sequence,1.0,math2_clean.txt,let s consider rst convergent sequence
+previous proposition,bind,convergent subsequence,1.0,math2_clean.txt,previous proposition bound convergent subsequence let
+max,related_to,max mean,0.4,math2_clean.txt,max mean
+power series sequence sum call series,call,partial sum series,1.0,math2_clean.txt,power series sequence sum call series call partial sum series
+summation series,start,index,1.0,math2_clean.txt,summation series start index necessarily
+harmonic series,related_to,diverge cauchy sequence,0.4,math2_clean.txt,harmonic series diverge cauchy sequence
+example euler s,related_to,example euler s number,0.4,math2_clean.txt,example euler s number
+power series,follow,lim series,1.0,math2_clean.txt,power series follow lim series divergent
+series,like,call telescope series,0.7,math2_clean.txt,series like call telescope series
+partial sum telescope series,compute,cancellation,1.0,math2_clean.txt,partial sum telescope series easily compute cancellation remain term rst
+sequence,related_to,nonnegative term sequence partial sum increase,0.4,math2_clean.txt,sequence nonnegative term sequence partial sum increase
+theorem comparison,related_to,theorem comparison test,0.4,math2_clean.txt,theorem comparison test
+series,related_to,nonnegative term,0.4,math2_clean.txt,let series nonnegative term
+series,related_to,nonnegative term,0.4,math2_clean.txt,let series nonnegative term
+series,related_to,diverge series,0.4,math2_clean.txt,series diverge series diverge
+series,related_to,nonnegative term,0.4,math2_clean.txt,let series nonnegative term lim
+behave,like,geometric series ratio,0.7,math2_clean.txt,idea behave like geometric series ratio
+series,converge,comparison geometric series,1.0,math2_clean.txt,series converge comparison geometric series
+series,related_to,nonnegative term,0.4,math2_clean.txt,let series nonnegative term lim
+behave,like,geometric series ratio ratio test,0.7,math2_clean.txt,idea behave like geometric series ratio ratio test
+series,related_to,ratio test,0.4,math2_clean.txt,series converge ratio test
+series nature,bind,unbounded,1.0,math2_clean.txt,series nature bound unbounded
+decrease,following,way,0.7,math2_clean.txt,decrease positive group term following way
+series,converge,proof,1.0,math2_clean.txt,series converge proof
+theorem kummer s,related_to,theorem kummer s test,0.4,math2_clean.txt,theorem kummer s test
+positive sequence,consider,sequence,1.0,math2_clean.txt,let positive sequence consider positive sequence
+convergence test,take,particular sequence kummer s test,1.0,math2_clean.txt,convergence test obtain take particular sequence kummer s test
+kummer s,related_to,kummer s test theorem,0.4,math2_clean.txt,kummer s test theorem
+power series series,call,alternate series,1.0,math2_clean.txt,power series series call alternate series
+convergence,consider,partial sum,1.0,math2_clean.txt,let prove convergence consider partial sum
+subsequence,bind,converge limit,1.0,math2_clean.txt,subsequence bound converge limit
+series,call,convergent convergent,1.0,math2_clean.txt,series call absolutely convergent convergent
+absolutely convergent series,related_to,n n b,0.4,math2_clean.txt,let absolutely convergent series let n n b ection
+series,related_to,convergent semi convergent,0.4,math2_clean.txt,series call conditionally convergent semi convergent converge diverge
+conditionally convergent series,rearrange,converge value,1.0,math2_clean.txt,word conditionally convergent series rearrange converge value diverge
+term alternate harmonic series,related_to,di erent sum,0.4,math2_clean.txt,rearrange term alternate harmonic series obtain di erent sum
+ln reorder term,related_to,way,0.4,math2_clean.txt,ln reorder term following way positive negative
+sequence,related_to,real number,0.4,math2_clean.txt,let sequence real number let
+limit lim p,related_to,lim,0.4,math2_clean.txt,limit lim p
+limit lim p,related_to,p,0.4,math2_clean.txt,limit lim p
+lim,related_to,p,0.4,math2_clean.txt,limit lim p
+lim,related_to,p,0.4,math2_clean.txt,follow lim p
+convergence,contain,open interval,1.0,math2_clean.txt,convergence set contain open interval possibly endpoint
+series,related_to,alternate harmonic series,0.4,math2_clean.txt,series converge alternate harmonic series diverge harmonic series convergence set
+series,related_to,diverge harmonic series convergence,0.4,math2_clean.txt,series converge alternate harmonic series diverge harmonic series convergence set
+alternate harmonic series,related_to,diverge harmonic series convergence,0.4,math2_clean.txt,series converge alternate harmonic series diverge harmonic series convergence set
+power series,related_to,integrate term term,0.4,math2_clean.txt,power series integrate term term dx
+di erentiate term term,related_to,exp,0.4,math2_clean.txt,di erentiate term term exp exp
+continuity di erentiability,limit,continuity di erentiability de nition,1.0,math2_clean.txt,mathematical analysis limits continuity di erentiability limit continuity di erentiability de nition
+r,related_to,neighborhood,0.4,math2_clean.txt,assume r consider neighborhood
+lim r,related_to,lim,0.4,math2_clean.txt,lim r
+lim r,related_to,lim,0.4,math2_clean.txt,lim r
+lim r sequence lim lim,related_to,lim r sequence,0.4,math2_clean.txt,lim r sequence lim lim
+lim r sequence lim lim,related_to,lim lim,0.4,math2_clean.txt,lim r sequence lim lim
+lim r sequence,related_to,lim lim,0.4,math2_clean.txt,lim r sequence lim lim
+mathematical analysis,limit,continuity di erentiability b r r sin limit,1.0,math2_clean.txt,mathematical analysis limits continuity di erentiability b r r sin limit
+accumulation point,related_to,continuous lim,0.4,math2_clean.txt,accumulation point continuous lim
+max,related_to,min max proof,0.4,math2_clean.txt,bound attain bound exist min max proof
+max sup,related_to,attain,0.4,math2_clean.txt,prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+max sup,related_to,s,0.4,math2_clean.txt,prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+max sup,related_to,upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence,0.4,math2_clean.txt,prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+attain,related_to,s,0.4,math2_clean.txt,prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+attain,related_to,upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence,0.4,math2_clean.txt,prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+s,related_to,upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence,0.4,math2_clean.txt,prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+continuity di erentiability,theorem,intermediate value property,1.0,math2_clean.txt,mathematical analysis limits continuity di erentiability theorem intermediate value property
+lim r,related_to,lim,0.4,math2_clean.txt,lim r
+di erentiable,related_to,lim,0.4,math2_clean.txt,di erentiable lim
+theorem calculus,related_to,theorem calculus rules,0.4,math2_clean.txt,theorem calculus rules
+chain rule mathematical analysis,limit,continuity di erentiability proposition l h pital s rule,1.0,math2_clean.txt,chain rule mathematical analysis limits continuity di erentiability proposition l h pital s rule
+theorem mean,related_to,theorem mean value theorem,0.4,math2_clean.txt,theorem mean value theorem
+conclusion,follow,rolle s theorem,1.0,math2_clean.txt,conclusion follow rolle s theorem
+proof,follow,derivative mean value theorem,1.0,math2_clean.txt,proof follow de nition derivative mean value theorem
+references,rudin,principle,0.7,math2_clean.txt,mathematical analysis references references rudin principle mathematical analysis ed mcgraw hill
+tao analysis,related_to,tao analysis springer,0.4,math2_clean.txt,tao analysis springer
+algebra,learn,wellesley cambridge press,1.0,math2_clean.txt,marsden tromba vector calculus ed freeman company oberguggenberger ostermann analysis computer scientists springer strang linear algebra learning data wellesley cambridge press

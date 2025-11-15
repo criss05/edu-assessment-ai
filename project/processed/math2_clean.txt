@@ -1,0 +1,513 @@
+mathematical analysis year computer science mihai nechita
+update november content
+real number sequences series
+power series limits continuity di erentiability
+nd typo let know teams email
+mathematical analysis real number real number let start standard notation set n
+set natural number z
+n set integer q z set rational number r set real number
+real number
+trivial de ne rigorous way example di erent method construct r
+straightforwardly start work real number reason property de nition simply give de nition
+de nition
+let subset r denote de ne r lower bind upper bind
+de ne r set low bound r set upper bound
+de ne r minimum maximum denote min respectively max
+word min min max max
+note set minimum maximum
+de nition
+set r de ned bound bound bound bound unbounde bound
+de nition
+r supremum r sup
+upper bound
+mathematical analysis real number supremum upper bind sup min
+de nition
+r mum r inf
+lower bind
+mum great lower bind inf max
+de nition completeness axiom
+set r bound supremum
+similarly set r bound mum
+note maximum sup max
+similarly minimum inf min
+sup max sup
+example
+n sup max inf min
+b q sup max inf min
+theorem
+let r bounded set
+sup inf follow true sup inf
+proof
+de nition sup sup
+exist
+similar proof inf
+proposition
+let r nonempty bounded set
+inf inf sup sup sup sup inf inf
+proof
+follow directly de nition
+de nition
+de ne extended real line r r r
+set bound de ne sup
+set bound de ne inf
+mathematical analysis real number seminar set bound number
+r sup inf
+de nition
+set r neighborhood vecinity r
+set r neighborhood r
+set r neighborhood r
+denote neighborhood r neighborhood
+de nition
+let
+following set call interior int r follow set call closure cl r
+proposition
+r hold int cl
+proof
+prove int prove int
+let int
+prove cl cl
+let
+hold give
+cl
+de nition
+int call open
+cl call closed
+remark
+prove set open su cient prove int
+prove set close su cient prove cl
+proposition
+following statement true
+complement open set closed
+complement closed set open
+proof
+let prove rst statement similar
+consider open set int denote c r complement
+prove c closed prove cl c
+consider cl c let s assume c aim obtain contradiction
+open exist give c contradiction cl c
+assumption c false cl c
+word cl c proposition
+union open set open
+intersection closed set closed
+nite intersection open set open
+nite union closed set closed
+proof
+optional leave extra homework
+mathematical analysis sequences sequences set n call sequence denote n simply
+sequence bound set n bound
+sequence increase n decrease sequence monotone increase decreasing
+de nition
+sequence limit r write lim n
+r converge n
+n
+n
+proposition
+sequence converge r lim proposition
+convergent sequence bound
+proof
+tba leave reader
+theorem weierstrass
+monotone bounded sequence convergent
+proof
+assume sequence increase example
+let n consider sup r know bound
+theorem n sup
+increase sup
+sup
+sequence converge sup de nition
+similarly decrease bounded sequence converge mum
+proposition
+monotone sequence limit proof
+sequence bound monotone convergent weierstrass theorem
+sequence unbounded monotone limit nite
+theorem squeeze sandwich theorem
+let sequence n lim lim
+lim lim lim
+mathematical analysis sequences proof
+let lim lim assume rst let
+n n
+take max conclusion
+nite proof similar
+theorem cantor s nest interval
+let increase decrease consider close interval
+lim exist r
+proof
+consider bounded set n n
+n sup inf
+squeeze theorem sup inf
+sup
+theorem bolzano weierstrass
+bounded sequence convergent quence
+proof
+consider bounded set n
+let inf sup de ne
+bisect notice half contain nitely term sequence
+half
+continue procedure obtain n interval contain term
+cantor s nest interval theorem exist r subsequence converge
+mathematical analysis sequences de nition
+sequence de ne set limit point lim r exist subsequence lim inf inf lim sup
+sup example
+lim lim inf lim sup proposition
+lim r lim inf lim sup
+de nition cauchy sequence
+sequence call cauchy fundamental
+n
+proposition
+cauchy sequence bound
+proof
+exist n
+particular term index bound
+term index bound nite number
+conclude entire sequence bound
+theorem
+sequence convergent cauchy
+proof
+let s consider rst convergent sequence
+exist n
+sequence cauchy
+assume cauchy sequence
+previous proposition bound convergent subsequence let
+exist n
+exist n
+particular
+max mean
+example
+sequence de ne
+convergent
+example
+convergent cauchy
+mathematical analysis series
+power series series
+power series sequence sum call series call partial sum series
+summation series start index necessarily
+series write
+de nition
+series converge sequence partial sum converge
+example
+geometric series converge sum
+example
+harmonic series diverge cauchy sequence
+example euler s number
+proof
+optional let
+start lim expand
+consider index
+take obtain
+conclude squeeze theorem obtain series
+converge sum
+proposition
+series convergent lim
+proof
+consider partial sum
+conclusion
+mathematical analysis series
+power series follow lim series divergent
+example
+series like call telescope series
+partial sum telescope series easily compute cancellation remain term rst
+sequence nonnegative term sequence partial sum increase
+series converge bound
+theorem comparison test
+let series nonnegative term
+n
+converge converge
+b diverge diverge
+proof
+consider sequence partial sum
+case sequence bound
+case b sequence unbounded
+example
+theorem
+let series nonnegative term
+lim series nature
+series converge series converge
+series diverge series diverge
+mathematical analysis series
+power series theorem ratio test
+let series nonnegative term lim
+series convergent
+series divergent
+test inconclusive
+proof
+idea behave like geometric series ratio
+proof case similar
+exist n give
+series converge comparison geometric series
+theorem root test
+let series nonnegative term lim
+series convergent
+series divergent
+test inconclusive
+proof
+idea behave like geometric series ratio ratio test
+example
+series
+converge later
+series converge ratio test
+mathematical analysis series
+power series theorem cauchy condensation test
+let decrease sequence
+series nature
+proof
+let
+series nature bound unbounded
+n exist n
+decrease positive group term following way
+obtain bound bound
+example
+series converge proof
+thecauchycondensationtest hasthesamenatureas converge
+theorem kummer s test
+let positive sequence consider positive sequence
+lim convergent
+b lim divergent
+mathematical analysis series
+power series proof
+let start
+limit positive exist n
+denote
+add inequality
+give
+bound series converge
+let consider b
+limit negative exist n
+give
+conclude
+convergence test obtain take particular sequence kummer s test
+restrict follow
+theorem raabe duhamel
+let series positive term lim
+series convergent
+series divergent
+proof
+kummer s test theorem
+example
+study convergence series
+proof
+ratio test inconclusive
+let try duhamel test lim lim
+series converge series diverge
+series
+mathematical analysis series
+power series series call alternate series
+fundamental class alternate series series form
+example
+series
+converge ln
+proof
+let prove convergence consider partial sum
+notice
+mean subsequence increase subsequence decrease
+notice
+subsequence bound converge limit
+nd sum alternate series recall seminar lim
+ln
+z
+ln z
+ln ln
+theorem leibniz test
+let decrease sequence
+series convergent
+proof
+consider partial sum
+prove convergent show cauchy sequence
+n consider
+z z
+z
+arbitrarily small cauchy
+mathematical analysis series
+power series de nition
+series call absolutely convergent convergent
+proposition
+absolutely convergent series convergent
+proof
+give cauchy sequence give cauchy sequence
+theorem cauchy
+let absolutely convergent series let n n b ection
+absolutely convergent
+word rearrangement absolutely convergent series sum
+proof
+optional
+theorem
+de nition
+series call conditionally convergent semi convergent converge diverge
+theorem riemann
+let conditionally convergent series let
+exist b ection n n
+word conditionally convergent series rearrange converge value diverge
+proof
+optional
+theorem
+example
+rearrange term alternate harmonic series obtain di erent sum
+consider
+ln reorder term following way positive negative
+ln
+mathematical analysis series
+power series de nition
+let sequence real number let
+series call power series center
+theorem
+consider power series
+exist unique call radius convergence power series power series converge absolutely diverge
+theorem
+limit lim p
+exist power series radius convergence
+proof
+follow root test series positive term
+corollary
+limit lim
+exist power series radius convergence
+proof
+follow lim p
+lim
+de nition
+convergence set power series r converge
+mathematical analysis series
+power series remark
+convergence set contain open interval possibly endpoint
+example
+power series radius convergence converge absolutely
+diverge root test ratio test
+convergence set
+example
+power series radius convergence converge absolutely
+diverge root test ratio test
+series converge alternate harmonic series diverge harmonic series convergence set
+theorem
+consider power series radius convergence give
+power series di erentiate term term
+power series integrate term term dx
+example
+power series
+converge absolutely r ratio test
+let exp
+di erentiate term term exp exp
+mathematical analysis limits continuity di erentiability limit continuity di erentiability de nition
+let
+r accumulation point cluster point
+denote set accumulation point
+isolated point
+remark cl isolate point
+proposition
+let r r
+exist sequence lim
+proof
+assume r consider neighborhood
+neighborhood contain
+nite neighborhood take respectively
+assume exist sequence lim
+exist
+particular
+example
+n element isolated point
+de nition
+let r r
+lim r
+remark
+let r r nite
+lim r
+theorem
+let r r
+lim r sequence lim lim
+theorem
+let r r r
+lim lim
+lim
+example
+sgn r r sgn limit
+mathematical analysis limits continuity di erentiability b r r sin limit
+c r r q r q limit
+de nition
+let r r
+continuous
+remark
+accumulation point continuous lim
+remark
+isolated point continuous
+theorem
+let r r
+follow equivalent continuous b
+c sequence lim lim
+remark
+elementary operation sum product composition ous function continuous de ned
+de nition
+r denote image
+bound bound inf sup nite
+theorem weierstrass
+let r continuous function
+bound attain bound exist min max proof
+let rst prove bound
+assume case n exist
+sequence bound convergent subsequence theorem denote limit
+continuous
+contradiction
+bound
+prove attain bound let s consider upper bound exist sup max sup theorem obtain sequence sup sequence bound convergent subsequence let s limit
+continuous follow know sup
+sup reach upper bound
+mathematical analysis limits continuity di erentiability theorem intermediate value property
+let r continuous function
+intermediate value property r exist
+proof
+assume consider set
+sup let
+sup theorem exist
+continuity
+continuity
+de nition supremum
+conclude
+de nition
+let r r
+derivative
+lim r
+r nite di erentiable
+remark
+represent gradient tangent curve point
+equation tangent
+theorem
+let r r
+di erentiable continuous
+proof
+lim
+example r r
+di erentiable lim
+theorem calculus rules
+constant
+product rule
+quotient rule
+chain rule mathematical analysis limits continuity di erentiability proposition l h pital s rule
+let open interval r r di erentiable
+lim lim lim r lim lim
+de nition r local extremum minimum maximum
+theorem fermat
+let r
+di erentiable local extremum
+proof
+lateral derivative equal
+local extremum
+theorem rolle
+let
+r
+continuous di erentiable exist
+proof
+continuous bound attain bound
+denote minimum maximum point
+belong
+function constant derivative zero
+theorem mean value theorem
+let
+r continuous di erentiable
+exist
+proof
+consider function r
+conclusion follow rolle s theorem
+theorem monotony
+let
+r di erentiable
+increase decrease
+proof follow de nition derivative mean value theorem
+mathematical analysis references references rudin principle mathematical analysis ed mcgraw hill
+tao analysis springer
+marsden tromba vector calculus ed freeman company oberguggenberger ostermann analysis computer scientists springer strang linear algebra learning data wellesley cambridge press

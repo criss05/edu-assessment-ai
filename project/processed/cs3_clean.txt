@@ -1,0 +1,248 @@
+data structures algorithms lecture lect
+onet zsuzsanna babe s bolyai university computer science mathematics faculty lect
+onet zsuzsanna data structures algorithms
+lecture direct address table hash table hash function collision resolution separate chain lect
+onet zsuzsanna data structures algorithms today collision resolution coalesce chain collision resolution open address lect
+onet zsuzsanna data structures algorithms coalesced chain collision resolution coalesce chaining element hash table store inside table link list element field similar link list array
+new element insert position place occupy position set link element find search
+element table
+lect
+onet zsuzsanna data structures algorithms coalesced chain example consider hash table size m use coalesce chain collision resolution hash function division method insert table follow element
+let s compute value hash function key key hash lect
+onet zsuzsanna data structures algorithms example
+initially hash table
+value position position add position
+add
+position occupy add position firstempty set point position
+reset firstempty position
+add element
+lect
+onet zsuzsanna data structures algorithms example
+final table pos
+t
+firstempty lect
+onet zsuzsanna data structures algorithms coalesced chaining representation
+field need represent hash table collision resolution coalesce chaining
+lect
+onet zsuzsanna data structures algorithms coalesced chaining representation
+field need represent hash table collision resolution coalesce chaining
+hashtable
+t tkey integer
+m integer firstempty
+integer h tfunction simplicity following consider key
+lect
+onet zsuzsanna data structures algorithms coalesced chain insert subalgorithm insert ht k
+ht hashtable k tkey
+k add ht rehash end pos ht
+mean position ht
+k
+pos end current pos
+execute current end slide
+lect
+onet zsuzsanna data structures algorithms coalesced chain insert ht
+k end end subalgorithm complexity average n bad case lect
+onet zsuzsanna data structures algorithms coalesced chain changefirstempty subalgorithm
+ht hashtable value set free position ht
+execute end end subalgorithm complexity think free space link list case link list array
+lect
+onet zsuzsanna data structures algorithms coalesced chain search
+search element hash table coalesced chaining
+lect
+onet zsuzsanna data structures algorithms coalesced chain search
+search element hash table coalesce chaining
+array go search array start position find element
+compute value hash function check link list start position
+element table list
+lect
+onet zsuzsanna data structures algorithms coalesced chaining remove hash table coalesce chaining essentially array multiple singly link list
+remove element like remove regular singly link list
+set previous element jump
+example previously build hash table want remove element like
+pos
+t
+firstempty lect
+onet zsuzsanna data structures algorithms
+remove simply set able find search go start position position check position
+obs position link list element allow specifically one equal value hash function element link list
+lect
+onet zsuzsanna data structures algorithms solution element previous position link list
+example remove pos
+t
+firstempty lect
+onet zsuzsanna data structures algorithms solution element previous position link list
+example remove pos
+t
+firstempty
+example work
+hash table correct element find
+remove
+hash table correct
+pos
+t
+firstempty lect
+onet zsuzsanna data structures algorithms
+element go find search start position currently position link list
+obs element position link list specifically element allow position position hash lect
+onet zsuzsanna data structures algorithms
+consider case discuss previously describe remove look like compute value hash function element let s
+start p follow link hash table find element
+element find want remove
+assume find position elem pos
+start position elem pos search element link list position
+find let s position pos element pos elem pos restart remove process pos
+element find hash elem pos simply remove element like case singly link list set previous point
+lect
+onet zsuzsanna data structures algorithms coalesced chaining remove subalgorithm elem pos prevpos element remove previous pos elem execute
+prevpos pos pos end pos
+exist false true hash pos repeat p pp pos p
+p
+pos execute pp p p end slide lect
+onet zsuzsanna data structures algorithms p true
+element hash pos
+element position p pos prevpos pp pos p end element pos remove element hash
+prevpos slide explanation idx idx prevpos execute pos prevpos idx idx idx end end end slide
+lect
+onet zsuzsanna data structures algorithms prevpos
+end pos pos end end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms prevpos
+end pos pos end end end subalgorithm complexity average lect
+onet zsuzsanna data structures algorithms
+happen element need remove right position
+case assume element previous implementation prev true
+happen element position previous element
+example element pos
+t
+firstempty
+want remove ok move place element hash position element find
+lect
+onet zsuzsanna data structures algorithms
+loop remove code prevpos table element pos element previous pos
+loop happen rarely element find position hash element hash position
+have loop go element table hash table like operation increase complexity function
+lect
+onet zsuzsanna data structures algorithms coalesced chain iterator
+define iterator hash table coalesce chaining
+following operation
+init getcurrent valid
+implement sorted container hash table coalesced chaining
+implement iterator
+lect
+onet zsuzsanna data structures algorithms open address case open address element hash table inside table pointer link
+want insert new element successively generate position element check probe generate position place element available
+lect
+onet zsuzsanna data structures algorithms open address order generate multiple position extend hash function add parameter probe number start
+h u m m element k successively examine position
+m call probe sequence probe sequence permutation hash table position m eventually slot consider
+like hash function generate m possible permutation spoiler alert
+lect
+onet zsuzsanna data structures algorithms open address linear probe version define hash function use linear probing
+h k mod m m h k simple hash function example h k k mod m probe sequence linear probe h k h k h k m h k lect
+onet zsuzsanna data structures algorithms open address linear probing example consider hash table size m use open addressing linear probe collision resolution insert table follow element
+let s compute value hash function key
+key hash lect
+onet zsuzsanna data structures algorithms open address linear probing example lect
+onet zsuzsanna data structures algorithms open address linear probe example disadvantages linear probe m distinct probe sequence starting position fix
+primary clustering long run occupy slot advantage linear probe probe sequence permutation benefit cache lect
+onet zsuzsanna data structures algorithms open address linear probing primary clustering primary cluster problem
+assume m position n element n
+best case arrangement second position example position occupy odd one free
+average number probe position verify need check insert new element
+lect
+onet zsuzsanna data structures algorithms open address linear probing primary clustering primary cluster problem
+assume m position n element n
+best case arrangement second position example position occupy odd one free
+average number probe position verify need check insert new element
+bad case arrangement n element assume second half array
+average number probe position verify need check insert new element
+lect
+onet zsuzsanna data structures algorithms open address quadratic probing case quadratic probe hash function
+h k mod m m h k simple hash function example h k k mod m constant initialize hash function initialize
+consider simplified version probe sequence
+k k k k k
+lect
+onet zsuzsanna data structures algorithms open address quadratic probe important issue quadratic probing choose value m probe sequence permutation
+m prime number half probe sequence unique hash table half guarantee space find
+example m k probe sequence
+example m k probe sequence lect
+onet zsuzsanna data structures algorithms open address quadratic probing m power probe sequence permutation
+example m k
+lect
+onet zsuzsanna data structures algorithms open address quadratic probing m prime number form k probe sequence etc
+probe sequence permutation
+example m k lect
+onet zsuzsanna data structures algorithms open address quadratic probing example consider hash table size m use open address quadratic probe collision resolution h k hash function define division method
+insert table follow element
+lect
+onet zsuzsanna data structures algorithms open address quadratic probing example lect
+onet zsuzsanna data structures algorithms open address quadratic probe example disadvantage quadratic probing performance sensitive value m
+secondary clustering element initial probe position probe sequence identical
+m distinct probe sequence starting position sequence fix
+lect
+onet zsuzsanna data structures algorithms open addressing double hashing case double hash hash function
+h k h k
+m m h k h k simple hash function h k return value
+key k position examine h k probed position compute base second hash function h k
+lect
+onet zsuzsanna data structures algorithms open addressing double hash similar quadratic probing combination m h k return complete permutation probe sequence
+order produce permutation m value h k relatively prime
+achieve way choose m power design h way return odd number
+choose m prime number design h way return value set actually set h k return
+lect
+onet zsuzsanna data structures algorithms open addressing double hash choose m prime number design h way return value set
+example h k h k
+m k h h
+probe sequence lect
+onet zsuzsanna data structures algorithms open addressing double hashing example consider hash table size m use open address double hashing collision resolution h k h k
+insert table follow element
+value hash function element lect
+onet zsuzsanna data structures algorithms open addressing double hashing example lect
+onet zsuzsanna data structures algorithms open addressing double hashing example main advantage double hashing probe sequence different
+example h k h k pair separate probe sequence double hashing generate different permutation
+lect
+onet zsuzsanna data structures algorithms open addressing operation following discuss implementation basic dictionary operation collision resolution open addressing
+use notation hash function mention linear probe quadratic probe double hashing code implementation h different
+lect
+onet zsuzsanna data structures algorithms open addressing representation
+field need represent hash table collision resolution open addressing
+lect
+onet zsuzsanna data structures algorithms open addressing representation
+field need represent hash table collision resolution open addressing
+hashtable
+t tkey m integer h tfunction
+simplicity consider key
+lect
+onet zsuzsanna data structures algorithms open addressing insert
+insert operation
+lect
+onet zsuzsanna data structures algorithms open addressing insert
+insert operation
+subalgorithm insert ht e
+ht hashtable e tkey
+e add ht pos
+ht
+execute mean space
+pos end rehash compute position e ht
+e end end subalgorithm lect
+onet zsuzsanna data structures algorithms open addressing operation
+search operation
+lect
+onet zsuzsanna data structures algorithms open addressing operation
+search operation
+remove element hash table
+lect
+onet zsuzsanna data structures algorithms open addressing operation
+search operation
+remove element hash table
+remove element hash table open addressing simple mark position search find element element search find element lect
+onet zsuzsanna data structures algorithms open addressing operation
+search operation
+remove element hash table
+remove element hash table open addressing simple mark position search find element element search find element remove usually implement mark delete position special value delete
+special value change implementation insert search operation
+lect
+onet zsuzsanna data structures algorithms open addressing performance hash table open addressing load factor n m average number probe insert unsuccessful search successful search
+ln
+constant complexity bad case complexity n lect
+onet zsuzsanna data structures algorithms
+summary today talk coalesced chain open address lect
+onet zsuzsanna data structures algorithms

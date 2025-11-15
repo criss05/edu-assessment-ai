@@ -1,0 +1,157 @@
+course elementary operation dr
+septimiu crivei chapter
+matrix linear systems elementary operation applications elementary operation application lu decomposition present matrix decomposition offer efficient way compute inverse determinant matrix solve square linear system equation
+lu
+elementary operation course elementary operation present chapter k denote field m n n
+definition let v vector space elementary operation function ij ij v n v n define
+vn v n
+vi
+vj
+vn
+vj
+vi
+vn
+vi
+vn
+vi
+vn k ij
+vi
+vj
+vn
+vi vj
+vj
+vn elementary operation course property elementary operation theorem previous notation ij
+ij n
+proof
+easy v n structure vector space k operation define
+vn v
+v n v
+vn v n
+vn
+kvn k k
+vn v
+v n v easy check ij ij k linear map
+bijection have inverse ij ji
+ij ij imply automorphism
+elementary operation course equivalent list vector definition let v vector space
+list x x vector vector space v n k call equivalent obtain apply finite number elementary operation exist finite composition v n v n elementary operation x x x
+composition v n v n elementary operation obviously bijective list obtain apply finite number elementary operation
+equivalent justify fact previously define relation equivalence relation reflexive transitive symmetric
+elementary operation course properties equivalent list theorem let v vector space k let x x equivalent list vector vector space v n x linearly independent v n x linearly independent v ii x system generator v n x system generator v iii x basis v n x basis v proof
+list x x equivalent exist finite composition v n v n elementary operation x x
+elementary operation isomorphism follow isomorphism
+know isomorphism preserve linearly independent list system generator basis
+elementary operation course elementary operation matrix follow let apply previously present theory elementary operation case vector space mm m n matrix
+matrix aij mm list vector
+column aj amj
+know elementary operation matrix interchange column matrix
+multiply column matrix non zero scalar
+multiply column matrix scalar add result column matrix
+matrix equivalent obtain finite number elementary operation
+elementary operation course elementary matrix theorem value elementary operation apply matrix aij mm see list column vector
+equal multiplied right hand matrix obtain identity matrix see list column apply elementary operation
+proof
+simplicity writing go prove theorem column involve elementary operation
+elementary operation course elementary matrix ii
+amn
+amn
+matrix obtain interchange column
+elementary operation course elementary matrix iii
+amn
+amn
+matrix obtain multiply column
+elementary operation course elementary matrix iv
+amn
+amn
+elementary operation course elementary matrix v matrix obtain multiply second column add column
+definition matrix form eij ei eij obtain apply elementary operation identity matrix call elementary matrix
+theorem
+elementary matrix invertible
+proof
+det
+determinant remain non zero apply elementary operation
+elementary matrix invertible
+elementary operation course remarks
+possible matrix aij mm list vector
+row
+ai
+ain
+case elementary operation row value elementary operation apply equal multiply left hand matrix obtain identity matrix m apply elementary operation
+reason method compute rank matrix solve linear system equation apply elementary operation row matrix
+elementary operation course echelon form matrix give matrix look well equivalent matrix
+definition matrix mm row echelon form r non zero row row
+r non zero row r
+m zero denote number zero element beginning row
+r
+theorem non zero matrix
+mm equivalent matrix echelon form
+elementary operation course example consider matrix
+apply elementary operation row follow succession equivalent matrix denote equivalence
+point pivot put box
+step multiply row add second row row respectively
+second step multiply second row add row
+matrix trapezoidal echelon form equivalent elementary operation course applications lemma let aij mm see list row vector
+sublist
+consist r vector linearly independent k n exist non zero minor order r matrix proof
+simplicity let consider sublist x
+ar
+x linearly independent krar
+kr
+kr k system zero solution
+krarn
+non zero minor order r elementary operation course computation rank theorem let aij mm see list row vector
+list column vector
+dim
+dim
+ii
+r c matrix echelon form r non zero row equivalent proof
+denote r dim
+maximum number linearly independent vector list
+maximum order non zero minor
+similarly dim
+ii let matrix c list row vector
+cr
+cm
+clearly cm list cr linearly elementary operation course computation rank ii independent
+elementary operation preserve rank matrix
+follow
+dim
+dim
+cm
+dim
+cr r
+clearly example
+method obtain follow matrix rank
+elementary operation course computation inverse theorem let
+equivalent identity matrix inverse matrix
+obtain identity matrix apply elementary operation obtain proof
+invertible
+apply elementary operation matrix c echelon form have n non zero row
+matrix c element principal diagonal zero
+zero principal diagonal apply elementary operation row start row
+equivalent matrix diagonal form
+rank n element diagonal non zero multiply inverse
+equivalent
+elementary operation course computation inverse ii
+mean exist elementary matrix
+ek ek
+follow ek
+obtain identity matrix apply elementary operation obtain example
+consider matrix
+invertible
+method obtain inverse
+elementary operation course extra lu decomposition definition matrix lu decomposition write l u low triangular matrix l matrix element principal diagonal zero upper triangular matrix u matrix element principal diagonal zero
+theorem
+reduce echelon form interchange row lu decomposition necessarily unique
+generally
+permutation matrix p matrix obtain repeatedly interchange row column identity matrix p lu decomposition
+elementary operation course
+extra lu decomposition ii
+lu decomposition
+invertible u l
+determinant inverse l u compute easy determinant inverse
+see matrix invertible
+alternatively note permutation matrix p elementary operation course
+extra lu decomposition iii correspond interchange row p l u product low triangular matrix l upper triangular matrix
+u l p
+elementary operation course

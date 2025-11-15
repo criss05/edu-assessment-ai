@@ -1,0 +1,189 @@
+data structures algorithms lecture lect
+onet zsuzsanna babe s bolyai university computer science mathematics faculty lect
+onet zsuzsanna data structures algorithms
+lecture doubly link list sorted list circular list lect
+onet zsuzsanna data structures algorithms today xor link list skip list link list array lect
+onet zsuzsanna data structures algorithms xor link list doubly link list well singly link list offer well complexity operation
+flexible traverse direction
+disadvantage occupy memory link memorize instead
+memory efficient solution xor linked list doubly link list traverse direction node retain single link xor previous node
+lect
+onet zsuzsanna data structures algorithms xor link list example
+traverse list
+lect
+onet zsuzsanna data structures algorithms xor link list example
+traverse list
+start head backward traversal start tail similar manner node address node directly address node b nil xor b b
+address node b link xor address node c xor b s link address previous node come xor c xor xor xor c nil xor c c lect
+onet zsuzsanna data structures algorithms xor link list representation
+need structure represent xor linked list node list xornode info telem link xornode xorlist head xornode
+tail xornode lect
+onet zsuzsanna data structures algorithms xor link list traversal subalgorithm
+xorl xorlist true content list print prevnode nil currentnode currentnode nil execute write
+nextnode prevnode xor prevnode currentnode currentnode nextnode end end subalgorithm complexity n lect
+onet zsuzsanna data structures algorithms xor link list addtobeginne add element beginning list
+lect
+onet zsuzsanna data structures algorithms xor link list addtobeginne add element beginning list
+subalgorithm elem
+xorl xorlist node info elem add beginning list newnode allocate
+elem nil newnode newnode xor newnode newnode end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms xor link list addtobeginne add element beginning list
+subalgorithm elem
+xorl xorlist node info elem add beginning list newnode allocate
+elem nil newnode newnode xor newnode newnode end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms skip lists assume want memorize sequence sorted element
+element store dynamic array link list let s doubly link list
+know frequently operation insertion new element want choose data structure insertion good complexity
+choose
+lect
+onet zsuzsanna data structures algorithms skip lists divide insertion operation step find insert insert element lect
+onet zsuzsanna data structures algorithms skip lists divide insertion operation step find insert insert element dynamic array find position optimize binary search insertion
+link list insertion optimal find insert lect
+onet zsuzsanna data structures algorithms skip list
+skip list data structure allow fast search order link list
+lect
+onet zsuzsanna data structures algorithms skip list
+skip list data structure allow fast search order link list
+lect
+onet zsuzsanna data structures algorithms skip list
+skip list data structure allow fast search order link list
+start order link list add second node pointer skip element
+add fourth node pointer skip element
+etc lect
+onet zsuzsanna data structures algorithms skip list h t special node represent head tail
+delete exist list need height list
+lect
+onet zsuzsanna data structures algorithms skip list search search element
+start head high level
+possible right
+right element great level
+lect
+onet zsuzsanna data structures algorithms skip list low level n element
+level n element
+level n element
+etc approx level
+level check node
+complexity search lect
+onet zsuzsanna data structures algorithms skip list insert insert element
+high new node
+lect
+onet zsuzsanna data structures algorithms skip list insert height new node determine randomly method call coin flip
+method guarantee approximately half node level quarter level etc
+assume randomly generate height node
+lect
+onet zsuzsanna data structures algorithms skip list skip lists probabilistic data structure decide randomly height newly insert node
+bad case node height link list
+structure height node independent order element insert bad sequence insertion
+practice function
+lect
+onet zsuzsanna data structures algorithms skip list representation idea represent skip list
+lect
+onet zsuzsanna data structures algorithms skip list representation idea represent skip list
+link list need structure node
+node
+approach define node node array pointer pointer different level
+node single pointer pointer point node level
+important issue decide singly doubly link list
+maybe combination level doubly link list high level singly link
+lect
+onet zsuzsanna data structures algorithms skip list implementation idea possible special head tail node maximum possible height
+insertion deletion straightforward operation potentially link list need modify
+order able potentially need store node pass search position
+case node involve path
+example previously figure want remove immediately find start head node high level
+remove pointer node need change
+lect
+onet zsuzsanna data structures algorithms disadvantages skip list disadvantage skip list use extra space memorize extra link n element need node
+basic version skip list unidirectional singly link list
+adjacent node skip list store totally different region memory skip list optimize cache
+disadvantage reduce little skip list node contain array pointer benefit cache descend level
+lect
+onet zsuzsanna data structures algorithms linked lists arrays lect
+onet zsuzsanna data structures algorithms linked lists arrays
+need link list work programming language offer pointer reference
+implement link datum structure explicit use pointer memory address simulate array array index
+lect
+onet zsuzsanna data structures algorithms linked lists arrays usually work array store element array start leftmost position place space middle array allow
+order element give order place array
+order element lect
+onet zsuzsanna data structures algorithms linked lists arrays define link data structure array consider order element give relative position array integer number associate element show index element array singly link list
+order element lect
+onet zsuzsanna data structures algorithms linked lists arrays
+want delete number actually second element list element left array need modify link order element lect
+onet zsuzsanna data structures algorithms linked lists arrays want insert new element example position list element array important set link correctly order element lect
+onet zsuzsanna data structures algorithms linked lists arrays new element need insert position array
+find position complexity complexity insert operation list
+order avoid link list position
+lect
+onet zsuzsanna data structures algorithms linked lists arrays formal way simulate singly link list array following array store element
+array store link index element
+capacity array array capacity need value
+index tell head list
+index tell position array
+lect
+onet zsuzsanna data structures algorithms sll array representation
+representation singly link list array follow slla
+elem telem
+integer cap integer head integer firstempty integer lect
+onet zsuzsanna data structures algorithms slla operations
+implement slla operation implement sll insert beginning end position give value delete beginning end position give element search element element position lect
+onet zsuzsanna data structures algorithms slla search function search slla elem
+slla slla elem telem return true elem slla false current current
+elem execute current end current search true search false end end function complexity lect
+onet zsuzsanna data structures algorithms slla search function search slla elem
+slla slla elem telem return true elem slla false current current
+elem execute current end current search true search false end end function complexity lect
+onet zsuzsanna data structures algorithms slla search search function element slla similar traversal sll need current element traversal initialize index head list
+stop traversal value current
+element instruction current
+lect
+onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity lect
+onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms slla init subalgorithm true post slla slla init capacity array position array position execute end
+end subalgorithm complexity n n initial capacity lect
+onet zsuzsanna data structures algorithms slla insertfirst subalgoritm elem
+slla slla elem telem
+element elem add beginning slla
+newelems array position newnext array position execute end execute
+end
+slide lect
+onet zsuzsanna data structures algorithms slla insertfirst
+necessary newelems newnext end newposition elem
+newposition end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms slla insertfirst
+necessary newelems newnext end newposition elem
+newposition end subalgorithm complexity amortize lect
+onet zsuzsanna data structures algorithms slla
+subalgorithm elem poz
+slla slla elem telem poz integer number element elem insert slla position pos pos invalid position end
+end poz elem pozcurrent nodcurrent slide lect
+onet zsuzsanna data structures algorithms slla insertposition nodcurrent pozcurrent poz execute pozcurrent pozcurrent nodcurrent end nodcurrent atunci newelem
+elem newelem slide lect
+onet zsuzsanna data structures algorithms slla insertposition invalid position end end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms slla insertposition invalid position end end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms slla insertposition observations insertposition subalgorithm similar sll iterate list find element insert denote code nodcurrent index array
+treat special case situation insert position node insert
+operation take parameter position need check valid position element store array need add operation space need resize
+resize extra position add list position
+lect
+onet zsuzsanna data structures algorithms slla deleteelement subalgorithm elem
+slla slla elem telem
+element elem delete slla nodc prevnode nodc
+elem execute prevnode nodc nodc end nodc nodc
+end slide lect
+onet zsuzsanna data structures algorithms slla deleteelement nodc position list space
+nodc element exist end end subalgorithm complexity lect
+onet zsuzsanna data structures algorithms slla iterator
+define iterator slla
+lect
+onet zsuzsanna data structures algorithms slla iterator
+define iterator slla
+iterator ssla combination iterator array iterator singly link list element store array currentelement index array
+link list go element incremente currentelement follow link
+initialization position head position
+lect
+onet zsuzsanna data structures algorithms
+summary today talk xor link list skip list define link list array
+extra reading solution problem previous extra reading lect
+onet zsuzsanna data structures algorithms
