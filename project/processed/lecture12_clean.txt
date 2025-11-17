@@ -1,0 +1,9 @@
+Binary Trees – Overview A binary tree is an ordered tree where each node
+has at most two children. These children are called the left child and
+the right child.
+
+Possible Representations A binary tree can be represented in several
+ways.
+
+One representation uses an array. The first array position contains the
+root.

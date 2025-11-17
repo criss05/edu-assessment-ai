@@ -1,0 +1,3 @@
+subject,relation,object,source_file
+representation,use,array,lecture12_clean.txt
+position,contain,root,lecture12_clean.txt

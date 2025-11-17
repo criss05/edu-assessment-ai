@@ -1,0 +1,10 @@
+context,question
+"Binary Trees – Overview A binary tree is an ordered tree where each node
+has at most two children.",How many children does a binary tree have?
+"These children are called the left child and
+the right child.",What are the names of the two children?
+"Possible Representations A binary tree can be represented in several
+ways.",A binary tree can be represented in several ways. Which of the following is not a way to represent a binary tree?
+One representation uses an array.,An array is a type of what?
+"The first array position contains the
+root.",The first array position contains the root of what?
