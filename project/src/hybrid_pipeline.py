@@ -82,11 +82,8 @@ for filename in tqdm(os.listdir(PROCESSED_FOLDER)):
     file_kg = kg_df[kg_df["source_file"] == filename]
     concepts = set(file_kg['subject'].tolist() + file_kg['object'].tolist())
 
-    print(f"[INFO] Processing {len(sentences)} sentences from {filename}")
-
     for index, sent in enumerate(sentences, start=1):
         relevant_concepts = [c for c in concepts if c.lower() in sent.lower()]
-        print("sent:", sent)
 
         base_prompt = (
             "Generate one clear factual study question based strictly on the sentence below. "
@@ -113,11 +110,9 @@ for filename in tqdm(os.listdir(PROCESSED_FOLDER)):
         )
 
         question_text = outputs[0]['generated_text'].strip()
-        print("question_text: ", question_text)
 
         # Optional: only keep first line
         question_text = question_text.split("\n")[0].strip()
-        print("question_text: ", question_text)
 
         generated.append({
             "context": sent,

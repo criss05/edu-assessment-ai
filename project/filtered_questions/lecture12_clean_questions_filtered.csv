@@ -12,7 +12,6 @@ The left child of index i is at position 2 * i.,The left child of index i is at 
 "The right child is
 at position 2 * i + 1.",The right child is at position 2 * i + 1.
 Empty positions use a special placeholder.,Empty positions use a special placeholder for what?
-Another representation uses linked structures.,Which of the following is an example of a representation?
 "Each node stores
 information and pointers to its left and right children.",Each node stores information and pointers to its left and right children. Which of the following is not a node?
 "The root
@@ -37,26 +36,18 @@ non-recursive version uses a stack and pushes the right child before the
 left child.",A non-recursive version uses a stack and pushes the right child before the left child.
 "Inorder Traversal In inorder traversal, the algorithm explores the left
 subtree first.","In inorder traversal, the algorithm explores the left subtree first."
-"It then visits the root and afterward explores the right
-subtree.","Which of the following is not a type of tree: root, subtree, or right?"
 "An inorder traversal of a binary search tree produces sorted
 output.",An inorder traversal of a binary search tree produces what kind of output?
 "Postorder Traversal Postorder traversal processes the left subtree
 first.",Postorder traversal processes the left subtree first. What does postorder traversal process?
-It then processes the right subtree and finally visits the root.,"Which of the following is not a type of tree: subtree, root, or right?"
 Non-recursive versions use either one or two stacks.,Non-recursive versions use either one or two stacks.
 "Level-Order Traversal Level-order traversal visits nodes by levels from
 top to bottom.",Level-order traversal visits nodes by levels from top to bottom.
 It uses a queue to manage the order of visits.,What does it use to manage the order of visits?
 Binary Tree Iterators Iterators visit tree elements one at a time.,What do binary tree iterators visit one at a time?
-"They
-support initialization, retrieving the current element, advancing to the
-next element, and checking whether the iterator is valid.","Which of the following is not a support for initialization: iterator, retrieving the current element, advancing to the next element, or checking whether the iterator is valid?"
 Remembering Traversal Orders Preorder visits the root first.,"Which of the following is not a preorder: root, traversal, or preorder?"
 "Inorder
 visits the root between the left and right subtrees.",Inorder visits the root between the left and right subtrees. Which of the following is not a type of tree?
-"Postorder visits
-the root last.","Which of the following is not a type of plant: root, stem, or flower?"
 "Reconstructing a Tree from Traversal Orders A tree can be reconstructed
 when preorder and inorder traversals are known.",A tree can be reconstructed when preorder and inorder traversals are known.
 "It can also be
@@ -83,17 +74,12 @@ the algorithm continues in the right subtree.","If it is greater, the algorithm 
 continues in the left subtree.","If it is smaller, it continues in the left subtree."
 "Search operations may be recursive or
 non-recursive.",Search operations may be recursive or non-recursive. Which of the following is an example of a non-recursive operation?
-The time complexity depends on tree height.,Tree height is a measure of how tall a tree is.
 "Inserting into a Binary Search Tree The insert operation places a new
 value according to the ordering rule.",Inserting into a binary search tree places a new value according to the following rule:
 "If the target location is empty, a
 new node is created.","If the target location is empty, a new what is created?"
 "If the value is less than or equal to the current
 node, insertion continues in the left subtree.","If the value is less than or equal to the current node, insertion continues in the left subtree."
-"Otherwise, it continues
-in the right subtree.","Which of the following is not a type of tree: right, subtree, or left?"
-"The insertion time depends on the height of the
-tree.",Which of the following is not a type of tree?
 "Finding Minimum or Maximum To find the minimum, the algorithm repeatedly
 follows left child pointers.","Which of the following is not a pointer: it, algorithm, or minimum?"
 "To find the maximum, it repeatedly follows
@@ -116,22 +102,13 @@ Removing a Node Node removal depends on the number of children.,Removal of a nod
 node has no children, it is removed directly.","If the node has no children, what is removed directly?"
 "If the node has one child,
 it is replaced by that child.","If the node has one child, what is replaced by that child?"
-"If the node has two children, the node’s
-value is replaced by either the maximum value in the left subtree or the
-minimum value in the right subtree.","If the node has two children, the node’s value is replaced by either the maximum value in the left subtree or the minimum value in the right subtree."
 "After replacement, the chosen node
 is removed separately.","After replacement, the chosen node is removed separately. Which of the following is not a type of node?"
 "Maintaining Positional Information A binary search tree can support
 position-based operations when each node stores the number of nodes in
 its left subtree.",A binary search tree can support position-based operations when each node stores the number of nodes in its left subtree.
-"This count helps determine whether to traverse left or
-right during such operations.",Which of the following is an example of an operation?
 "Binary Search Trees with Duplicate Values Duplicate values follow the
 “less than or equal to” rule and may appear in left subtrees.",Duplicate values follow the “less than or equal to” rule and may appear in left subtrees of which tree?
 "Counting
 duplicates can be done by traversing the tree and counting all matching
 nodes.",Counting duplicates can be done by traversing the tree and counting all matching what?
-Removal follows the same cases used for any value.,What are the same cases used for for any value?
-"Summary This lecture presented binary trees, traversal algorithms,
-binary search trees, and common operations such as search, insertion,
-deletion, and successor calculation.","Which of the following is not a common operation: search, insertion, deletion, or successor calculation?"
