@@ -24,14 +24,36 @@ def create_question_prompt(paragraph, relevant_concepts=None, kg_info=None):
 
 def generate_question(paragraph, relevant_concepts=None, kg_info=None):
     print(f"[INFO] Generating question for paragraph: \"{paragraph[:60]}...\"")
+
     if relevant_concepts:
-        print(f"[INFO] Relevant KG concepts: {relevant_concepts}")
+        relevant_concepts = clean_relevant_concepts(relevant_concepts, max_items=15)
+        print(f"[INFO] Cleaned relevant KG concepts: {relevant_concepts}")
+
     q_type = plan_question_type(paragraph)
     print(f"[INFO] Planned question type: {q_type}")
     
     prompt = create_question_prompt(paragraph, relevant_concepts, kg_info)
     outputs = generator(prompt, max_new_tokens=128, num_return_sequences=1)
+    
     question_text = outputs[0]['generated_text'].strip().split("\n")[0]
     
     print(f"[INFO] Question generated: {question_text}\n")
     return question_text
+
+
+
+def clean_relevant_concepts(concepts, max_items=15):
+    """
+    Remove duplicates, filter out very short tokens, and limit the number.
+    """
+    # Remove duplicates while keeping order
+    seen = set()
+    unique = []
+    for c in concepts:
+        c = c.strip()
+        if len(c) > 1 and c.lower() not in seen:
+            seen.add(c.lower())
+            unique.append(c)
+
+    # Keep only the first max_items unique concepts
+    return unique[:max_items]

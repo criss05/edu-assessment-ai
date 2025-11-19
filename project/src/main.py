@@ -5,9 +5,7 @@ from generation import generate_question, plan_question_type
 from filtering import filter_questions
 
 PROCESSED_FOLDER = "./processed"
-QUESTIONS_FOLDER = "./questions"
 FILTERED_FOLDER = "./filtered_questions"
-os.makedirs(QUESTIONS_FOLDER, exist_ok=True)
 os.makedirs(FILTERED_FOLDER, exist_ok=True)
 
 # Step 1: Knowledge Graph Extraction
